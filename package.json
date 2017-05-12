@@ -1,0 +1,31 @@
+{
+  "name": "tcms-data",
+  "version": "1.0.0",
+  "description": "data processor for tourcms",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teammax/tcms-data.git"
+  },
+  "keywords": [
+    "tourcms",
+    "bookur"
+  ],
+  "author": "Casper Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teammax/tcms-data/issues"
+  },
+  "homepage": "https://github.com/teammax/tcms-data#readme",
+  "dependencies": {
+    "bson-ext": "^1.0.5",
+    "debug": "^2.6.3",
+    "googlemaps": "^1.12.0",
+    "mongodb": "^2.2.25",
+    "tourcms": "^1.1.0",
+    "xml2js": "^0.4.17"
+  }
+}
