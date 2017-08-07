@@ -80,7 +80,12 @@ const apiBasicData = [
 		opApiKey: '6f1f259266fa',
 		opMarketPlaceId: 0,
 		opChannelId: 11179
-	}
+	},	
+	{
+		opApiKey: 'ffff1cf86c28',
+		opMarketPlaceId: 0,
+		opChannelId: 11181
+	},
 ]
 
 //Part 1-1 - gettting MDB's current record sets
@@ -226,4 +231,5 @@ let step2GetSuppliersFromTours = (supplierAliasFromProducts) => {
 
 //Start
 
-getExistingDataFromMDB();
+//getExistingDataFromMDB()
+//step1GetTourCMSTours()

@@ -1,0 +1,2417 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikivoyage</sitename>
+    <dbname>enwikivoyage</dbname>
+    <base>https://en.wikivoyage.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.30.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikivoyage</namespace>
+      <namespace key="5" case="first-letter">Wikivoyage talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>1770</title>
+    <ns>0</ns>
+    <id>1</id>
+    <redirect title="Town of 1770" />
+    <revision>
+      <id>1</id>
+      <timestamp>2009-03-02T02:54:37Z</timestamp>
+      <contributor>
+        <username>Inas</username>
+        <id>1816</id>
+      </contributor>
+      <comment>otherwise a number just looks weird.. (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Town of 1770]]</text>
+      <sha1>jjresq501njc7hkah05ux8kk4t1y605</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1liner</title>
+    <ns>0</ns>
+    <id>2</id>
+    <redirect title="Wikivoyage:One-liner listings" />
+    <revision>
+      <id>2</id>
+      <timestamp>2008-07-28T01:50:03Z</timestamp>
+      <contributor>
+        <username>Peterfitzgerald</username>
+        <id>1768</id>
+      </contributor>
+      <minor />
+      <comment>[[WT:SHORT|shortcut]] to [[Project:One-liner listings]] (I can never remember this one) (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Project:One-liner listings]]</text>
+      <sha1>ixx0jbrmjhbgem6vavjxyy2w64t8vyu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1st</title>
+    <ns>0</ns>
+    <id>3</id>
+    <redirect title="Wikivoyage:Use of pronouns" />
+    <revision>
+      <id>1890003</id>
+      <parentid>4</parentid>
+      <timestamp>2012-09-24T04:21:04Z</timestamp>
+      <contributor>
+        <username>Shaundd</username>
+        <id>1811</id>
+      </contributor>
+      <comment>fix double redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Wikivoyage:Use of pronouns]]</text>
+      <sha1>p9przoiizhx3wz7d46d5erk4wj20j1q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2010 FIFA World Cup</title>
+    <ns>0</ns>
+    <id>5</id>
+    <redirect title="World Cup 2010" />
+    <revision>
+      <id>7</id>
+      <timestamp>2010-01-18T09:19:01Z</timestamp>
+      <contributor>
+        <username>AHeneen</username>
+        <id>1814</id>
+      </contributor>
+      <comment>redirect to World Cup 2010 (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[World Cup 2010]]</text>
+      <sha1>5s9khi58gx7tmxi5qsyrfly6o2ubxsy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>'s-Gravenhage</title>
+    <ns>0</ns>
+    <id>9</id>
+    <redirect title="The Hague" />
+    <revision>
+      <id>39</id>
+      <timestamp>2006-10-31T07:07:19Z</timestamp>
+      <contributor>
+        <username>EvanProdromou</username>
+        <id>81383</id>
+      </contributor>
+      <comment>Redirect (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[The Hague]]</text>
+      <sha1>mbmuhahzimq3vs03k474afolowxb38z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>'s-Hertogenbosch</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>3202090</id>
+      <parentid>3128225</parentid>
+      <timestamp>2017-05-15T13:31:55Z</timestamp>
+      <contributor>
+        <username>WikiBathor</username>
+        <id>1508219</id>
+      </contributor>
+      <minor />
+      <comment>/* Eat */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{pagebanner|caption=The ''Markt'' of 's Hertogenbosch, with its town hall, is famous not only for its unusual triangular shape, but also for changing very little over the centuries, as exemplified by this historic painting.}}
+[[File:SHertogenbosch, straatzicht Smalle Haven-de Gruijterpassage foto3 2011-06-18 18.22.JPG|thumb|Street view in the city]]
+''''s-Hertogenbosch''', commonly known as '''Den Bosch''', is a city in the south of the [[Netherlands]] and the capital of the province of [[North Brabant]]. Once a stronghold, vital in the protection of the young Dutch nation, Den Bosch has a charming and well-preserved medieval centre. Wander through the winding streets to see Saint John's Cathedral and then pick out a street terrace on the market square to relax with a chilling beer. Take a boat to see part of the unique Binnendieze, a subterranean network of canals under the city, or head to the south part of town where the ancient ramparts still mark the border of the city and the beginning of a natural reserve area. In short: what Den Bosch lacks in fame, it makes up for in charm. A place well worth visiting.
+
+==Understand==
+[[File:A2 en Pettelaarpark gezien vanaf de bovenste verdieping van het Provinciehuis Noord-Brabant.jpg|thumb|right|Not all of 's Hertogenbosch is made up of medieval buildings - here's a view towards the south of the city]]
+The population of Den Bosch is approximately 151,000 and with that it is reaching its limits. This because almost all the ground available for building has been used. This does not mean that the whole area is one big city as there are several (big) parks. Likewise, the southern edge of city is totally green as this is a protected natural reserve.
+
+[[File:Overzicht, vijver op de voorgrond - 's-Hertogenbosch - 20413416 - RCE.jpg|thumb|right|''Provinciehuis'' - centre of government of North Brabant]]
+Den Bosch can be seen in 9 regions (''note: these regions are built up of several neighborhoods''):
+
+* '''Center''' includes the whole area inside the city walls. Most sights and places to visit can be found in this area.
+* '''North''' is the area between the city center and the A59, which includes the neighborhoods ''de Rompert'', ''Orthen'', ''Herven'' and the area around the ''Prins Hendrik Park''.
+* '''Maaspoort''' is the area north of the A59. Mostly a residential area with some industry.
+* '''Hintham''' is the area around the FC Den Bosch football stadium.
+* '''South''' is the area between the city center and the A2 highway to the south. Residential, but with also a large amount of office buildings.
+* '''West''' is the area west of the central station. High presence of industry, as wel as the residential neighborhoods ''Kruiskamp'' and ''Helftheuvel''. The ''Brabanthallen'' can be found here.
+* '''Engelen''' is the village of ''Engelen'' which is going through the development of ''Haverleij'', a combined residential complex on a golfcourse.
+* '''Rosmalen''', a town to the east of the A2.
+* '''Empel''', small village to the north of ''Rosmalen''.
+
+Most visitor attractions are found in the center, except for the footballstadium and the ''Sportiom''.
+
+[[File:Brabanthallen hoofdgebouw.jpg|thumb|right|Brabanthallen, a historic event venue in Den Bosch]]
+
+==Get in==
+
+===By plane===
+* '''[[Amsterdam Airport Schiphol]]''', the largest airport in the Netherlands and of Europe's most important intercontinental hubs, is roughly 1.5h away from Den Bosch by train. One needs to change on the way, as there are no direct trains - the most convenient changes are in [[Utrecht]] or [[Breda]]. Either way, the cost is EUR 16.20 for the complete journey. There are multiple times an hour allowing such connections. Consult e.g. [http://9292.nl 9292.nl] for the most convenient option.
+* '''[[Eindhoven#Eindhoven Airport|Eindhoven Airport]]''', the country's second largest, is in Brabant and is mainly served by low-fare carriers from many European cities, with special emphasis on Eastern Europe and the Mediterranean. Getting to Den Bosch from Eindhoven is as simple as taking one of the many trains shuttling every hour between the cities, taking less than 20 minutes to connect them, but one needs to get a bus ride from the airport to Eindhoven station first, adding another 20 minutes to the travel time. With some walking and waiting factored it, the total journey time should not be over 50 minutes and will only cost you EUR 6.30 in total.
+* '''[[Rotterdam#By plane|Rotterdam The Hague Airport]]''' is a smaller, business-focused airport in the city of Rotterdam, which can be used as an alternative to Schiphol from some destinations. The airport also does not have a direct train connection - you need to take the bus to Rotterdam Centraal (20 mins) and then a direct Intercity train to 's Hertogenbosch. Total journey time is under two hours and cost is less than EUR 18.
+
+[[File:SHertogenbosch, NSstation foto3 2011-06-18 13.22.JPG|thumb|right|'s Hertogenbosch station]]
+
+===By train===
+[[File:Perron Station Den Bosch.jpg|thumb|right|Platform with the historic roofing]]
+Den Bosch has a good location within the railway system of the &quot;[http://www.ns.nl Nederlandse Spoorwegen]&quot; (Dutch Railroads) and almost every city has a direct connection or with a single stopover. Trains depart from Den Bosch main station in city center, which is located at the 'Stationsweg', towards Utrecht-Amsterdam-Haarlem and Utrecht-Schiphol in the north, in the direction of Nijmegen-Arnhem-Zwolle in the east, towards Eindhoven-Maastricht in the south and Tilburg-Breda-Roosendaal in the west.
+
+===By car===
+Den Bosch is accessible via the A2 highway, which has recently (as of 2016) been improved, alleviating the previously chronic traffic jams.
+
+The major highway that passes Den Bosch is the A2, generally seen from Amsterdam to Maastricht. This one of the busiest highways of The Netherlands, and the part along Den Bosch, known as &quot;knooppunt Hintham&quot; and &quot;knooppunt Empel&quot; (intersection Hintham and Rosmalen), is in the top 5 of busiest traffic points in The Netherlands.
+
+The other, less busy, highway passing Den Bosch is the A59, coming from Roosendaal (and the A16) towards Nijmegen. This highway is less busy than the A2, although traffic jams might occur when there is a jam on the A2 as the A59 merges into the A2 for a short part.
+
+Nevertheless, if staying outside the peak hours, which are roughly from 7AM-9AM and from 4:30PM–7:30PM, Den Bosch is easily accessible by car.
+
+===By bus===
+The regional buses, operated by the BBA, link Den Bosch with Tilburg and Eindhoven. As these are the regional buses, they do not go directly between these city but stop at several small villages. Therefore, the fastest and advisable way is using the train.
+
+==Get around==
+{{Mapframe|51.697831|5.300058|zoom=|height=|width=|layer=|staticmap=|align=|name=}}
+[[File:Juli 2012 Den Bosch 049.JPG|thumb|right|Almost every street in the historic centre is worth simply strolling along for great views]]
+===On foot===
+Everything within the city center is reachable by foot. Everywhere in the city, so also in the suburbs, are sidewalks. In the city center, most areas are accessible by foot and bicycle only, and traffic within the city is restricted.
+
+===By bus===
+There is a free electric citybus that can take you from the central railroad station to the city centre and back.
+If you want to go to the suburbs (where there is no reason to, as all points of interest are within the city center), Arriva operates a network of buses throughout the city and places in the vicinity. All buses arrive and depart from the central station, although for some lines it is not a terminus. Travelling on these buses is around €1,20 per zone, and you have to purchase at least 2 zones. You can either pay cash at the driver, or buy a 'strippenkaart', a sort of multiple journey card, for this. The last one should only be considered of you intend a lot of traveling, or travel with multiple persons.
+
+[[File:Juli 2012 Den Bosch 086.JPG|thumb|right|When arriving by car, you will need to leave it outside of the historic core of the city]]
+===By car===
+The city council is trying to get the city center car free, so it is bringing up all kind of measures to deter people from taking the car into the city. Cars can still be parked in the city center, but on Saturdays and Thursday evening these garages are packed. Parking is also available just outside the city center and from there buses are available every 15 minutes for only a few euros including bus trip.
+
+===By bike===
+The best means of transportation is, just as in the rest of The Netherlands, by bicycle. The city is rather flat and bike friendly &lt;!-- I hope it's safe to assume it is--&gt;
+
+===Taxi===
+While taxis are relatively expensive in the Netherlands, they are typically reliable and can be good value if you're a small group. Taxis can be found in front of the train station and are available on call. Companies include {{buy
+| name=Taxi TCO | alt= | url=http://www.taxi-tco.nl/taxi_denbosch.php | email=
+| address= | lat= | long= | directions=
+| phone=+31 412 484 41 | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-03-01
+| content=
+}} and {{buy
+| name= Taxi de Hart| alt= | url=http://www.taxidehart.nl | email=
+| address= | lat= | long= | directions=
+| phone=+31 73 5112733 | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-03-01
+| content=
+}}. They will also offer transportation services to other cities or towns in the region. While they will work by meter for trips inside the city, fixed prices are available for longer trips, e.g. to Eindhoven Airport (around €45) or Schiphol (around €90).
+
+[[File:Sint-Jans-Hertogenbosch.jpg|thumb|The large St John's Cathedral is a central point in the city.]]
+
+==See==
+'s-Hertogenbosch is a medieval city and among the oldest cities in the Netherlands. As the city center is historically protected there are still a lot of medieval buildings to be found. Wander around and see the traditional building style.
+
+When the Netherlands were still young it was a '''fortified city''' that served for the protection of The Netherlands. Especially on the south side of the city, a lot of these fortifications have been saved and over time restored. Start at ''Bastion Vught'' and walk northwards via the ''Parklaan'', ''Spinhuiswal'', ''Zuidwal'' and ''Bastion Oranje'' and ''Hekellaan'' until you reach the bridge over the ''Zuid Willemsvaart''. This way you cover the best part of the old fortifications. In 2004, the city was awarded ''European Fortress of the year''.
+
+* {{see
+| name=Saint John's Cathedral | alt=Sint Jans Kathedraal | url= | email=
+| address= | lat=51.68808 | long=5.30814 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=one of the most prominent landmarks of Den Bosch. Building started in 1380, in Gothic style. The exterior of the building had been deteriorating fast due to acid rain and restoration works started in 1960. It has taken many years to restore the full church, but the works are completed and the church can be seen in all its glory. The restoration also included the interior. Of course some minor maintainance takes place constantly.
+}}
+
+[[File:Demoriaandenboschnl.jpg|thumb|right|De Moriaan]]
+* {{see
+| name=The Moriaan | alt= | url= | email=
+| address= | lat=51.68967 | long=5.30261 | directions=on the market square
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=the oldest brick building in The Netherlands, built in the 13th century. It currently houses the Tourist Center (VVV), and in the basement, the rockcafe Plein79.
+}}
+
+[[File:'s-Hertogenbosch Rijksmonument 21719 Stadhuis, Markt 1.JPG|thumb|right|Town hall of Den Bosch]]
+* {{see
+| name=Town Hall | alt=Stadhuis | url= | email=
+| address=Markt 1 | lat=51.68846 | long=5.30315 | directions=south side of the market square
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=The facade was built in the 17th century and reflects Dutch ''classicism''. The cellars are from about 1200, with a restaurant for coffee, tea, lunch etc..
+}}
+
+[[File:Exterieur Noordbrabants Museum DSCF6321.JPG|thumb|NoordBrabants Museum]]
+* {{see
+| name=The North Brabant Museum | alt=NoordBrabants Museum | url=http://www.hetnoordbrabantsmuseum.nl/english | email=
+| address= | lat=51.68658 | long=5.30469 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=houses a collection of art and historical artifacts, from pre-roman times to the 20th century. Special exibitions are a must to see, the 'Hyeronimus Bosch Exhibition' with his original work from museums all over the world.
+}}
+
+[[File:Stedelijk Museum 's-Hertogenbosch DSCF1199.JPG|thumb|right|Stedelijk Museum]]
+* {{see
+| name=City Museum 's-Hertogenbosch | alt=Stedelijk Museum 's-Hertogenbosch (SMS) | url=http://www.sm-s.nl/ | email=
+| address= | lat=51.68575 | long=5.30419 | directions=next to, and connected to, the North Brabant Museum
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=A brand new building and a museum for modern art. Together they form one of the biggest museums of the Netherlands. The ground floor can be visited freely, and it's up to you to decide to see more.
+}}
+
+[[File:Interieur, overzicht vanaf orgelgalerij - 's-Hertogenbosch - 20534553 - RCE.jpg|thumb|right|The JHenrynimus Bosch Art Center is housed in a former church]]
+* {{see
+| name=Jhyeronimus Bosch Art Center | alt= | url=http://www.jheronimusbosch-artcenter.nl/ | email=
+| address=Hinthamerstraat | lat=51.68807 | long=5.31215 | directions=in a former church
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-01-25
+| content=displays all the works of the famous painter. All in live sized copies. Combined with 3D models of his monsters and objects. Because the paintings are copies, you can get very close to them and the guide will open or close the panels to get the full picture. Visitors, young and old, can enjoy this permanent exhibition.
+}}
+
+[[File:Citadel 02.jpg|thumb|right|Inside the Citadel of Den Bosch]]
+* {{see|name=Citadel|directions=In the north of the city center, outside the boundaries of the northern fortifications|content=This fortress was added to the city later and is not directly included in the fortifications but sort of pasted on. It held the garrison to protect the city or, if necessary, to counter an uprising in the city. It is now part of the national archive.|lat=51.69511 | long=5.30335}}
+
+[[File:Kruithuis te Den Bosch.jpg|thumb|right|Kruithuis]]
+* {{see|directions=Opposite the Citadel|name=Kruithuis|alt=powder arsenal|content=It is an hexagonal building and one of the last of its kind. It is currently used as a museum for art.|lat=51.69357 | long=5.30497}}
+
+[[File:'s-Hertogenbosch Rijksmonument 21585 Bethaniestraat 2a, 4.JPG|thumb|right|Oude Sint-Jacobskerk]]
+
+Hidden below the old city is a canal network called the '''Binnendieze''' that once spanned 22 kilometres. It started out as a regular river, the Dommel, running through the city in medieval times but due to lack of space in the city, people started building their houses and roads over the river. In later times it functioned as a sewer and fell into disrepair. In recent decades, the remaining sixth of the old waterway system has been renovated, and it is possible to take several guided subterranean boat trips through it.
+
+==Do==
+[[File:Binnendieze 's-Hertogenbosch.jpg|thumb|The Binnendieze, as seen from one of the tour boats]]
+
+* Take a boat on the Binnendieze, a river that goes below the houses of the center of town, which was used historically as an open sewer, but is now quite a special tour.
+
+==Buy==
+Den Bosch is a popular place for shopping, combining a charming historic atmosphere with a wide variety of stores. In the city centre you'll find all the major chains and department stores. For more characteristic speciality stores or small boutiques try the '''Snellestraat''' or the so-called '''Bossche Kwartier''', meaning the small streets around the Fonteinstraat. The '''Verwerstraat''', with its large monumental buildings, is the place to go for antiques, fashion and design. The '''Vughterstraat''' is another excellent pick, with clothing shops as well as some fine home decoration and furniture places.
+
+'''Markets''' are frequently held on the large market square. The main market is on Saturdays (9-17h) and has a wide selection of food and non-food products. On Wednesday the selection is similar, but the market somewhat smaller. On Fridays, there's a biological market (9-14h) with a good selection of high-quality, mostly regional products. There's another regular market on every first Sunday of the month, but it's a lot smaller than the one on Saturday.
+
+[[File:Bossche bol in the Netherlands.jpg|thumb|right|Bossche bolen]]
+==Eat==
+The city is famous for a local pastry called &quot;Bossche Bol&quot; or &quot;moorkop&quot;, a must-try for any visitor. It's a chocolate ball filled with cream, the size of a tennis ball, typically eaten with a cup of coffee in the afternoon but also for dessert. It makes for a fine sweet treat when you kick back and relax at one of the many cafés, after a day of walking through town.
+*{{eat
+| name=Jan de Groot | alt= | url= http://www.bosschebollen.nl/winkel-lunchroom.php| email=
+| address=Stationsweg 24 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price= € 2.05 for one pastry.
+| content=This bakery is particularly well-known for its Bossche bollen and caters to many of the cafés in town. They also have a lunchroom of their own.
+}}
+
+===Restaurants===
+The city centre is packed with small and large restaurants that serve all kinds of crowds. The '''Korte Putstraat''' and the '''Lange Putstraat''' are your best bet if you're looking for a meal, as they have a particularly broad selection of places with nice outdoor terraces in summer. Typically you'll have no problems finding a table somewhere, but if you have a particular establishment in mind or if you want a good table on the terrace it's definitely wise to reserve ahead, as the best places are often full.
+
+===Budget===
+*{{eat
+| name=Eetcafé 't Keershuys  | alt= | url= http://www.keershuys.nl/| email=info@keershuys.nl
+| address=Lepelstraat 45 | lat= | long= | directions=
+| phone=+31 73 612 80 87 | tollfree= | fax=
+| hours= | price=
+| content=Cosy place in a 14th-century building, once a small cheese factory. Today it's a restaurant serving simple, good value for money food. It's also a popular place for lunch and High Tea. Lunch breads start at around €5 and in the evening you can have the dish of the day for €10,50. Pasta dishes around €12 and other mains from €15.
+}}
+
+===Mid-range===
+*{{eat
+| name=In Den Zevenden Hemel | alt= | url=http://www.indenzevendenhemel.nl/ | email=
+| address=Korte Putstraat 13-17 | lat= | long= | directions=
+| phone=+31 73 6901451 | tollfree= | fax=
+| hours= | price=€34.95 for a set 3 course menu
+| content=Popular with locals, this place gets good reviews and is often crowded. Mains start around €20 and there's several vegetarian options too. The staff is friendly; ask them for the English menu.
+}}
+
+*{{eat
+| name= Nescio| alt= | url=http://www.nescio-restaurant.nl/ | email=
+| address= Hinthamerstraat 80| lat= | long= | directions=
+| phone=+31 73 6 100 900 | tollfree= | fax=
+| hours= | price= € 34,50 for a 4 course chef's menu.
+| content= Cosy little restaurant with good food, right next to the cathedral. On the menu you'll find a range of small dishes which allows you to get a good idea of the cuisine. Most visitors opt for the chef's menu, called the &quot;Wandeling door de kaart&quot; (walk through the menu).
+}}
+
+*{{eat
+| name=Binnenhof -eten &amp; drinken- | alt= | url=http://www.binnen-hof.nl | email=info@binnen-hof.nl
+| address= Guardianenhof 26| lat= | long= | directions=
+| phone=+31 73 6145010| tollfree= | fax=
+| hours= | price= From €34,95 for a 3 course menu.
+| content= Modern, nicely decorated restaurant with good food.
+}}
+* {{eat
+| name=FF Swanjee | alt= | url=http://www.ffswanjee.nl/ | email=
+| address=Hinthamerstraat 76-78 | lat= | long= | directions=
+| phone=+31 73 - 614 78 32 | tollfree= | fax=
+| hours=Daily from 12.00 | price=
+| lastedit=2017-01-03
+| content=This popular and informal place serves a range of small &quot;wappaz&quot;, an internation take on tapas, available in small and large portions. The menu also has some excellent grill dishes, lots of cocktails and tasty desserts. Sharing is encouraged.
+}}
+
+===Splurge===
+*{{eat
+| name=Restaurant Sense| alt= | url= http://www.restaurantsense.nl| email=info@restaurantsense.nl
+| address=Verwersstraat 58  | lat= | long= | directions=
+| phone=+31 73 614 42 08| tollfree= | fax=
+| hours= closed Sun&amp;Mon| price= From €43,50 for 4 courses
+| content=Sense has a number of small, high quality dishes on the menu; the idea is that you order them more or less in a random order, as you like. They start at around €16; count on 4 dishes for an average eater. If you're not very picky, the surprise menu is a good option.
+}}
+
+*{{eat
+| name=Fabuleux  | alt= | url=| email=
+| address=Verwerstraat 23 | lat= | long= | directions=
+| phone=+31 73 741 00 11 | tollfree= | fax=
+| hours=Closed Mon&amp;Tue | price= From €37.50 for a 3 course surprise.
+| content= Proper French cuisine in a historic house. This place also has some excellent wines on the menu.
+}}
+
+==Drink==
+Nightlife in Den Bosch is as you might expect from a city of its size: not as extravagant as Amsterdam or Rotterdam, but nice, with a friendly crowd attending and a nice atmosphere. The places most worth visiting:
+*{{drink
+| name=De Drie Gezusters | alt=One of the most popular places in Den Bosch, it has 3 areas: Pub, Apres Ski and Club with different music and appearance. Can't miss it on Friday and Saturday as there will be a line outside. | url=http://www.driegezusters.nl | email=
+| address=Karrenstraat | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Opens at 21.00, but the scene starts at around 23.00. Open until 04.00 | price=Entrance €4, coatcheck €1
+| content=
+}}
+*{{drink
+| name=Cinq | alt=Formerly known as the ''Cuba Libre'', it turns into a nightlife scene after 23.00. On busy nights hard to get in. | url= | email=
+| address=Parade | lat= | long= | directions=
+| phone =+31 73  6900768 | tollfree= | fax=
+| hours= | price=Entrance depends on attendance. Busy nights require around €2 entrance to be paid.
+| content=
+}}
+*{{drink
+| name=De Carrousel | alt=Place to attracts a crowd of mainly 25+. Is sometimes open slightly longer than the other places. | url= | email=
+| address=Karrrenstraat | lat= | long= | directions=
+| phone =+31 73  6900311 | tollfree= | fax=
+| hours=starts at around 10PM until 4AM, sometimes later. | price=
+| content=
+}}
+*{{drink
+| name=Silva Ducis | alt=Next to Cinq, same attendance. | url=http://www.silva-ducis.nl | email=
+| address=Parade | lat= | long= | directions=
+| phone =+31 73  6130405 | tollfree= | fax=
+| hours=10AM-4PM | price=
+| content=
+}} '
+
+[[File:Den Bosch - Paleiskwartier - Armada.jpg|thumb|right|Residential buildings in the Paleiskwartier, immediately west of the train station]]
+==Sleep==
+[[File:Hoofdkantoor Essent.jpg|thumb|right|Headquarters of the energy company Essent]]
+*{{sleep
+| name=Golden Tulip Hotel Central | alt= | url=http://www.hotel-central.nl/?_locale=en | email=
+| address=Burg. Loeffplein 98 | lat= | long= | directions=The hotel is on the north side of the Markt, easily recognized as a white building
+| phone=+31 73 6926926 | tollfree= | fax=+31 73 6145699
+| checkin= | checkout= | price=around €140
+| content=Located in the city center, this is one of the best hotels to visit the city if you are willing to pay a little more.
+}}
+*{{sleep
+| name=Mövenpick Hotel 's-Hertogenbosch | alt=Moevenpick | url=http://www.movenpick.com/en/europe/netherlands/hertogenbosch/hotel-hertogenbosch/overview/ | email=hotel.s-hertogenbosch@moevenpick.com
+| address=Pettelaarpark 90 | lat=51.6766 | long=5.3329 | directions=Near the highway A2. Take exit 22, where signage will guide you to the hotel.
+| phone=+31 73 6874674 | tollfree= | fax=+31 73 6874635
+| checkin=3PM | checkout=12PM | price=around €140
+| lastedit=2016-05-29
+| content=This 4-star hotel offers clean, cosy rooms with good showers and 100% organic, fair trade linen. There's a spacious (no-swimming suit) sauna and infra-red room and the hotel restaurant offers a diverse menu with healthy and vegetarian options. This hotel is located in a business area but lies next to a small lake, which gives it its charm. It's about a 20 minute walk from the city centre and easily accessible by car. The large parking has electric car charging options. Bicycle rent is also available and there's a bus stop 200 meters away, with connections to the city centre.
+}}
+*{{sleep
+| name=Best Western Euro Hotel | alt=Located in the city center. Cheaper hotel, but overal it is in a bad shape. Renovations has been done from Dec. 06 until Mar. 07, so there might be some improvement. | url=http://www.bestwestern.com | email=
+| address=Kerkstraat 56 | lat= | long= | directions=Near the St. Jans Cathedral opposite the main post office.
+| phone=+31 73 6137777 | tollfree= | fax=+31 73 6128795
+| hours= | price=€95
+| checkin=14:00 | checkout=11:00
+| content=
+}}
+*{{sleep
+| name=Campanile Hotel 's-Hertogenbosh | alt=Cheap hotel located in the northern suburb 'Maasport' and adjacent industrial area | url=http://www.campanile.com | email=denbosch@campanile.com
+| address=Goudsbloemvallei 21-25 | lat= | long= | directions=
+| phone=+31 73 6422525 | tollfree= | fax=+31 73 6410048
+| hours= | price=€59
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Bark Hotel 's-Hertogenbosch | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Fletcher Hotel Rosmalen | alt=Located outside the city center along the A2 highway | url=http://www.fletcherhotelshertogenbosch.nl/en/ | email=info@fletcherhotelshertogenbosch.nl
+| address=Burg. Burgerslaan 50 | lat= | long= | directions=
+| phone=+31 73 5219159 | tollfree= | fax=+31 73 5216215
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=van der Valk Hotel Vught | alt=Large hotel located in the town of Vught, about 10 minutes by bus to 's-Hertogenbosch. | url=http://www.valk.com | email=vught@valk.com
+| address=Bosscheweg 2 | lat= | long= | directions=
+| phone=+31 73 6587777 | tollfree= | fax=+31 73 6587700
+| hours= | price=€80-100
+| checkin= | checkout=
+| content=
+}}
+
+==Connect==
+Den Bosch uses the area code 073.
+
+==Stay safe==
+Den Bosch is in general a safe city. Even the neighborhoods considered dangerous by the locals are still quite safe during daylight (''Hambaken'', ''Graafsewijk'' and ''Kruiskamp''). If a traveler uses his common sense he will be alright, also during night. The only time the crowd can get a bit rough is during Thursday, Friday and Saturday night. These are the general party nights, so people sometimes drink too much. Nevertheless, there is a lot of police around, and you will be safe if you just take care and mind your own business.
+
+==Go next==
+Well connected and at a fairly central location, there are endless options for next destinations when leaving 'sHertogenbosch. Some of the more prominent nearby places are [[Utrecht]], [[Tilburg]], [[Eindhoven]], [[Breda]] and [[Nijmegen]]. Families will find fun all year round at the [[Efteling]], the country's largest theme park. The Loonse en Drunense Duinen National Park is also a short ride away.
+
+{{routebox
+| image1=NL-A2.png
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Amsterdam]]
+| minorl1=[[Culemborg]]
+| directionr1=S
+| majorr1=[[Maastricht]]
+| minorr1=[[Eindhoven]]
+}}
+
+{{IsPartOf|North Brabant}}
+{{usablecity}}
+{{geo|51.69014|5.29897|zoom=15}}
+
+[[Commons:'s-Hertogenbosch]]
+[[Wikipedia:'s-Hertogenbosch]]</text>
+      <sha1>lxra05uklhlduer69932hw4hlzuv9br</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>'s Hertogenbosch</title>
+    <ns>0</ns>
+    <id>11</id>
+    <redirect title="&#039;s-Hertogenbosch" />
+    <revision>
+      <id>124</id>
+      <parentid>123</parentid>
+      <timestamp>2011-07-25T18:58:13Z</timestamp>
+      <contributor>
+        <username>Globe-trotter</username>
+        <id>1844</id>
+      </contributor>
+      <comment>Redirecting to [['s-Hertogenbosch]] (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [['s-Hertogenbosch]]</text>
+      <sha1>hlr2dn02ytmf3qf1s5jp8czemidbcp4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>'t Gooi</title>
+    <ns>0</ns>
+    <id>12</id>
+    <redirect title="Gooi en Vechtstreek" />
+    <revision>
+      <id>2013806</id>
+      <parentid>127</parentid>
+      <timestamp>2012-11-29T01:17:14Z</timestamp>
+      <contributor>
+        <username>Xltel</username>
+        <id>1922</id>
+      </contributor>
+      <comment>fix double redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Gooi en Vechtstreek]]</text>
+      <sha1>c7mnzrfluffijfaj0c6s5ms13j1x29o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>29 Palms</title>
+    <ns>0</ns>
+    <id>15</id>
+    <redirect title="Twentynine Palms" />
+    <revision>
+      <id>130</id>
+      <timestamp>2007-08-28T16:29:23Z</timestamp>
+      <contributor>
+        <username>Cacahuate</username>
+        <id>1920</id>
+      </contributor>
+      <comment>Redirecting to [[Twentynine Palms]] (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Twentynine Palms]]</text>
+      <sha1>nk60utjkoya8as3801zwp2ux3440vvg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>3Days 2Night Chiang Mai to Chiang Rai</title>
+    <ns>0</ns>
+    <id>17</id>
+    <redirect title="Chiang Mai to Chiang Rai in 3 days" />
+    <revision>
+      <id>132</id>
+      <timestamp>2009-11-27T10:35:53Z</timestamp>
+      <contributor>
+        <username>Texugo</username>
+        <id>109373</id>
+      </contributor>
+      <comment>[[3Days 2Night Chiang Mai to Chiang Rai]] moved to [[Chiang Mai to Chiang Rai in 3 days]] (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Chiang Mai to Chiang Rai in 3 days]]</text>
+      <sha1>i8u2259bm2fbab6lopdi62yw8rqoxye</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>3 Days in Block Island</title>
+    <ns>0</ns>
+    <id>18</id>
+    <redirect title="Block Island" />
+    <revision>
+      <id>2220036</id>
+      <parentid>2199067</parentid>
+      <timestamp>2013-03-31T16:27:41Z</timestamp>
+      <contributor>
+        <username>Traveler100</username>
+        <id>79350</id>
+      </contributor>
+      <comment>blanking</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Block Island]]</text>
+      <sha1>5a63dyw2q13va2hp85t2cexyerp1zmm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>4 Days Mae Hong Son Loop</title>
+    <ns>0</ns>
+    <id>21</id>
+    <redirect title="Mae Hong Son Loop" />
+    <revision>
+      <id>171</id>
+      <timestamp>2010-02-08T21:07:59Z</timestamp>
+      <contributor>
+        <username>Globe-trotter</username>
+        <id>1844</id>
+      </contributor>
+      <comment>[[4 Days Mae Hong Son Loop]] moved to [[Mae Hong Son Loop]]: better name for the loop (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Mae Hong Son Loop]]</text>
+      <sha1>dq2xf5r4jx69p61ee6pdaauk7m90jyu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>4 June 2004</title>
+    <ns>0</ns>
+    <id>23</id>
+    <redirect title="Wikivoyage:Archive of Wikitravel (not Wikivoyage) milestones" />
+    <revision>
+      <id>2574559</id>
+      <parentid>173</parentid>
+      <timestamp>2014-04-24T06:01:25Z</timestamp>
+      <contributor>
+        <username>Matroc</username>
+        <id>248572</id>
+      </contributor>
+      <minor />
+      <comment>Fix double redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Wikivoyage:Archive of Wikitravel (not Wikivoyage) milestones]]</text>
+      <sha1>5jypr4h9g0u3olodonpb98tg83k8oaf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>7 2</title>
+    <ns>0</ns>
+    <id>25</id>
+    <redirect title="Wikivoyage:Avoid long lists" />
+    <revision>
+      <id>2109024</id>
+      <parentid>175</parentid>
+      <timestamp>2013-01-19T20:25:55Z</timestamp>
+      <contributor>
+        <username>Wrh2</username>
+        <id>229</id>
+      </contributor>
+      <comment>better redirect target</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Project:Avoid long lists]]</text>
+      <sha1>auby8nmedyw0q5uhot7jwx8vgoqoqjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>7+2</title>
+    <ns>0</ns>
+    <id>26</id>
+    <redirect title="Wikivoyage:Avoid long lists" />
+    <revision>
+      <id>1896376</id>
+      <parentid>176</parentid>
+      <timestamp>2012-10-12T23:53:51Z</timestamp>
+      <contributor>
+        <username>Globe-trotter</username>
+        <id>1844</id>
+      </contributor>
+      <comment>Redirected page to [[Wikivoyage:Avoid long lists]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Project:Avoid long lists]]</text>
+      <sha1>auby8nmedyw0q5uhot7jwx8vgoqoqjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>88 Temple Pilgrimage</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>3160989</id>
+      <parentid>3160987</parentid>
+      <timestamp>2017-03-04T18:35:19Z</timestamp>
+      <contributor>
+        <username>Ikan Kekek</username>
+        <id>36420</id>
+      </contributor>
+      <minor />
+      <comment>/* Prepare */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{pagebanner|88 Temple Pilgrimage Wikivoyage banner.jpg}}
+{{itinerary}}
+The '''88 Temple Pilgrimage''' (八十八ヶ所巡り ''hachijūhakkasho-meguri'') is Japan's most famous pilgrimage route, a 1,200&amp;nbsp;km loop around the island of [[Shikoku]].
+
+==Understand==
+[[File:Iwamotoji PilgrimGirl.JPG|thumb|print=full|Pilgrim traveling on foot, [[Kubokawa]]]]
+
+Many of the temples are said to have been founded or restored by the revered monk and scholar '''Kūkai''' (空海), better known by his posthumous title '''Kōbō Daishi''' (弘法大師). Among his many achievements, he is said to have created the ''kana'' syllabary, brought the tantric teachings of Esoteric Buddhism from China, developed it into the uniquely Japanese Shingon sect, and founded Shingon's headquarters on [[Mount Koya]] near [[Osaka]].
+
+While most modern-day pilgrims (an estimated 100,000 yearly) travel by tour bus, a small minority still set out the old-fashioned way on foot, a journey which takes about six weeks to complete.  Pilgrims, known as ''o-henro-san'' (お遍路さん), can be spotted in the temples and roadsides of Shikoku clad in a white jacket emblazoned with the characters ''Dōgyō Ninin'' (同行二人), meaning &quot;two traveling together&quot; &amp;mdash; the other traveler being the spirit of Kobo Daishi.
+
+Locals will be excited to see someone making the journey on foot, and priests will be relieved that you are not showing up with 100 of your close friends. Make sure that your Japanese is good enough to communicate your feelings to both groups!
+
+==Prepare==
+Completing the course the traditional way on foot is a serious undertaking that demands several weeks. Good physical fitness and stamina are required to endure the stress of constant walking up and down the hills of Shikoku, in the burning sun and the pouring rain.
+
+Many pilgrims choose to dress up in traditional attire:
+
+* ''byakue'' &amp;mdash; the white coat of a pilgrim
+* ''wagesa'' &amp;mdash; scarf worn around the neck, usually purple, to indicate that you are on a religious pilgrimage
+* ''sugegasa'' &amp;mdash; conical straw hat
+* ''kongōtsue'' &amp;mdash; walking stick, and the one indispensable sign that identifies you as a pilgrim
+
+In addition, most pilgrims carry a book called ''nōkyōchō'' or ''shuincho'', to collect a red ink stamp (shu-in) by each temple you visit.  All of these items can be purchased -in a formal sense- at Mount Koya or at Ryozenji, the first temple.
+
+It should be noted that many pilgrims who begin the pilgrimage on foot do not finish it. It is a common to hear of people giving up in Kochi, traditionally known as &quot;devil's land&quot; because of its hot temperature, intense rain, and infrequent contact with civilization. (This means you must either camp, sleep in a rest stop or precisely time your journey to only hit towns and be willing to pay up for a hotel room.)
+
+==Get in==
+It is traditional to prepare by visiting [[Mount Koya]], but the route itself starts at Ryōzenji, near [[Tokushima]], and you have to return here in order to complete your pilgrimage. It is not necessary to start at temple #1 as long as you visit them all, but this is by far the most popular starting point for pilgrims from outside Shikoku, because it is also the closest to people coming from Mt. Koya.　
+
+The temples are usually visited in clockwise order, although this too, is just a convention &amp;mdash; in practice, as all signs are oriented for pilgrims going clockwise, it's easier to get lost if you try to go against the flow.
+
+==Go==
+Most pilgrims walking on foot average around 25&amp;nbsp;km daily and complete the trip in five to seven weeks.
+
+The canonical list of temples is as follows:
+
+{| class=&quot;wikitable&quot;
+! No. !! Temple  !! City !! Prefecture !! Notes
+|-
+|1 ||Ryōzenji (霊山寺) ||[[Naruto (Tokushima)|Naruto]] ||[[Tokushima Prefecture|Tokushima]]
+|-
+|2 ||Gokurakuji (極楽寺) ||Naruto ||Tokushima
+|-
+|3 ||Konsenji (金泉寺) ||[[Itano]] ||Tokushima
+|-
+|4 ||Dainichiji (大日寺) ||Itano ||Tokushima
+|-
+|5 ||Jizōji (地蔵寺) ||Itano ||Tokushima
+|-
+|6 ||Anrakuji (安楽寺) ||[[Kamiita]] ||Tokushima
+|-
+|7 ||Jūrakuji (十楽寺) ||[[Awa]] ||Tokushima
+|-
+|8 ||Kumataniji (熊谷寺) ||Awa ||Tokushima
+|-
+|9 ||Hōrinji (法輪寺) ||Awa ||Tokushima
+|-
+|10 ||Kirihataji (切幡寺) ||Awa ||Tokushima
+|-
+|11 ||Fujiidera (藤井寺) ||[[Yoshinogawa]] ||Tokushima
+|-
+|12 ||Shōzanji (焼山寺) ||[[Kamiyama]] ||Tokushima || The climb from 11 to 12 is notoriously tough!
+|-
+|13 ||Dainichiji (大日寺) ||[[Tokushima (city)|Tokushima]] ||Tokushima
+|-
+|14 ||Jōrakuji (常楽寺) ||Tokushima ||Tokushima
+|-
+|15 ||Kokubunji (国分寺) ||Tokushima ||Tokushima
+|-
+|16 ||Kan'onji (観音寺) ||Tokushima ||Tokushima
+|-
+|17 ||Idoji (井戸寺) ||Tokushima ||Tokushima
+|-
+|18 ||Onzanji (恩山寺) ||[[Komatsushima]] ||Tokushima
+|-
+|19 ||Tatsueji (立&amp;#27743;寺) ||Komatsushima ||Tokushima
+|-
+|20 ||Kakurinji (鶴林寺) ||[[Katsuura]] ||Tokushima
+|-
+|21 ||Tairyūji (太竜寺) ||[[Anan]] ||Tokushima || Tough mountain temple
+|-
+|22 ||Byōdōji (平等寺) ||Anan ||Tokushima || Another tough mountain temple
+|-
+|23 ||Yakuōji (薬王寺) ||[[Minami (Tokushima)|Minami]] ||Tokushima
+|-
+|24 ||Hotsumisakiji (最御崎寺) ||[[Muroto]] ||[[Kochi Prefecture|K&amp;#333;chi]]
+|-
+|25 ||Shinshōji (津照寺) ||Muroto ||Kōchi
+|-
+|26 ||Kongōchōji (金剛頂寺) ||Muroto ||Kōchi
+|-
+|27 ||Kōnomineji (神峰寺) ||[[Yasuda]] ||Kōchi
+|-
+|28 ||Dainichiji (大日寺) ||[[Konan (Kochi)|Konan]] ||Kōchi
+|-
+|29 ||Kokubunji (国分寺) ||[[Nankoku]] ||Kōchi
+|-
+|30 ||Zenrakuji (善楽寺) ||[[Kochi (city)|K&amp;#333;chi]] ||Kōchi
+|-
+|31 ||Chikurinji (竹林寺) ||Kōchi ||Kōchi || Superb views over Kochi city from the park just west of the temple
+|-
+|32 ||Zenjibuji (禅師峰寺) ||Nankoku ||Kōchi
+|-
+|33 ||Sekkeiji (雪蹊寺) ||Kōchi ||Kōchi
+|-
+|34 ||Tanemaji (種間寺) ||[[Haruno]] ||Kōchi
+|-
+|35 ||Kiyotakiji (清滝寺) ||[[Tosa]] ||Kōchi
+|-
+|36 ||Shōryūji (青竜寺) ||Tosa ||Kōchi
+|-
+|37 ||Iwamotoji (岩本寺) ||[[Shimanto]] ||Kōchi
+|-
+|38 ||Kongōfukuji (金剛福寺) ||[[Tosashimizu]] ||Kōchi
+|-
+|39 ||Enkōji (延光寺) ||[[Sukumo]] ||Kōchi
+|-
+|40 ||Kanjizaiji (観自在寺) ||[[Ainan]] ||[[Ehime Prefecture|Ehime]]
+|-
+|41 ||Ryūkōji (竜光寺) ||[[Uwajima]] ||Ehime
+|-
+|42 ||Butsumokuji (佛木寺) ||Uwajima ||Ehime
+|-
+|43 ||Meisekiji (明石寺) ||[[Seiyo]] ||Ehime
+|-
+|44 ||Daihōji (大宝寺) ||[[Kumakogen|Kumak&amp;#333;gen]] ||Ehime
+|-
+|45 ||Iwayaji (岩屋寺) ||Kumakōgen ||Ehime
+|-
+|46 ||Jōruriji (浄瑠璃寺) ||[[Matsuyama]] ||Ehime
+|-
+|47 ||Yasakaji (八坂寺) ||Matsuyama ||Ehime
+|-
+|48 ||Sairinji (西林寺) ||Matsuyama ||Ehime
+|-
+|49 ||Jōdoji (浄土寺) ||Matsuyama ||Ehime
+|-
+|50 ||Hantaji (繁多寺) ||Matsuyama ||Ehime
+|-
+|51 ||Ishiteji (石手寺) ||Matsuyama ||Ehime
+|-
+|52 ||Taizanji (太山寺) ||Matsuyama ||Ehime
+|-
+|53 ||Enmyōji (円明寺) ||Matsuyama ||Ehime
+|-
+|54 ||Emmeiji (延命寺) ||[[Imabari]] ||Ehime
+|-
+|55 ||Nankōbō (南光坊) ||Imabari ||Ehime
+|-
+|56 ||Taisanji (泰山寺) ||Imabari ||Ehime
+|-
+|57 ||Eifukuji (栄福寺) ||Imabari ||Ehime
+|-
+|58 ||Sen'yūji (仙遊寺) ||Imabari ||Ehime
+|-
+|59 ||Kokubunji (国分寺) ||Imabari ||Ehime
+|-
+|60 ||Yokomineji (横峰寺) ||[[Saijo]] ||Ehime
+|-
+|61 ||Kōonji (香園寺) ||Saijō ||Ehime
+|-
+|62 ||Hōjuji (宝寿寺) ||Saijō ||Ehime
+|-
+|63 ||Kichijōji (吉祥寺) ||Saijō ||Ehime
+|-
+|64 ||Maegamiji (前神寺) ||Saijō ||Ehime
+|-
+|65 ||Sankakuji (三角寺) ||[[Shikokuchuo]] ||Ehime
+|-
+|66 ||Unpenji (雲辺寺) ||[[Ikeda (Tokushima)|Miyoshi]] ||Tokushima
+|-
+|67 ||Daikōji (大興寺) ||[[Mitoyo]] ||[[Kagawa Prefecture|Kagawa]]
+|-
+|68 ||Jinnein (神恵院) ||[[Kanonji]] ||Kagawa
+|-
+|69 ||Kan'onji (観音寺) ||Kanonji ||Kagawa
+|-
+|70 ||Motoyamaji (本山寺) ||Mitoyo ||Kagawa
+|-
+|71 ||Iyadaniji (弥谷寺) ||Mitoyo ||Kagawa
+|-
+|72 ||Mandaraji (曼荼羅寺) ||[[Zentsuji]] ||Kagawa
+|-
+|73 ||Shusshakaji (出釈迦寺) ||Zentsūji ||Kagawa
+|-
+|74 ||Kōyamaji (甲山寺) ||Zentsūji ||Kagawa
+|-
+|75 ||Zentsūji (善通寺) ||Zentsūji ||Kagawa
+|-
+|76 ||Konzōji (金倉寺) ||Zentsūji ||Kagawa
+|-
+|77 ||Dōryūji (道隆寺) ||[[Tadotsu]] ||Kagawa
+|-
+|78 ||Gōshōji (郷照寺) ||[[Utazu]] ||Kagawa
+|-
+|79 ||Tennōji (天皇寺) ||[[Sakaide]] ||Kagawa
+|-
+|80 ||Kokubunji (国分寺) ||[[Takamatsu]] ||Kagawa
+|-
+|81 ||Shiromineji (白峯寺) ||[[Sakaide]] ||Kagawa
+|-
+|82 ||Negoroji (根香寺) ||Takamatsu ||Kagawa
+|-
+|83 ||Ichinomiyaji (一宮寺) ||Takamatsu ||Kagawa
+|-
+|84 ||Yashimaji (屋島寺) ||Takamatsu ||Kagawa
+|-
+|85 ||Yakuriji (八栗寺) ||Takamatsu ||Kagawa
+|-
+|86 ||Shidoji (志度寺) ||[[Sanuki]] ||Kagawa
+|-
+|87 ||Nagaoji (長尾寺) ||Sanuki ||Kagawa
+|-
+|88 ||Ōkuboji (大窪寺) ||Sanuki ||Kagawa
+|}
+
+&lt;!--PRINT
+&lt;br&gt;&lt;br&gt;
+'''Tokushima'''
+
+* 1 	Ryōzenji (霊山寺) 	Naruto
+* 2 	Gokurakuji (極楽寺) 	Naruto
+* 3 	Konsenji (金泉寺) 	Itano
+* 4 	Dainichiji (大日寺) 	Itano
+* 5 	Jizōji (地蔵寺) 	Itano
+* 6 	Anrakuji (安楽寺) 	Kamiita
+* 7 	Jūrakuji (十楽寺) 	Awa
+* 8 	Kumataniji (熊谷寺) 	Awa
+* 9 	Hōrinji (法輪寺) 	Awa
+* 10 	Kirihataji (切幡寺) 	Awa
+* 11 	Fujiidera (藤井寺) 	Yoshinogawa
+* 12 	Shōzanji (焼山寺) 	Kamiyama (The climb from 11 to 12 is notoriously tough!)
+* 13 	Dainichiji (大日寺) 	Tokushima
+* 14 	Jōrakuji (常楽寺) 	Tokushima
+* 15 	Kokubunji (国分寺) 	Tokushima
+* 16 	Kan'onji (観音寺) 	Tokushima
+* 17 	Idoji (井戸寺) 	Tokushima
+* 18 	Onzanji (恩山寺) 	Komatsushima
+* 19 	Tatsueji (立江寺) 	Komatsushima
+* 20 	Kakurinji (鶴林寺) 	Katsuura
+* 21 	Tairyūji (太竜寺) 	Anan (Tough mountain temple)
+* 22 	Byōdōji (平等寺) 	Anan (Another tough mountain temple)
+* 23 	Yakuōji (薬王寺) 	Minami
+
+'''Kōchi'''
+
+* 24 	Hotsumisakiji (最御崎寺) 	Muroto
+* 25 	Shinshōji (津照寺) 	Muroto
+* 26 	Kongōchōji (金剛頂寺) 	Muroto
+* 27 	Kōnomineji (神峰寺) 	Yasuda
+* 28 	Dainichiji (大日寺) 	Konan
+* 29 	Kokubunji (国分寺) 	Nankoku
+* 30 	Zenrakuji (善楽寺) 	Kōchi
+* 31 	Chikurinji (竹林寺) 	Kōchi (Superb views from the park just west of the temple)
+* 32 	Zenjibuji (禅師峰寺) 	Nankoku
+* 33 	Sekkeiji (雪蹊寺) 	Kōchi
+* 34 	Tanemaji (種間寺) 	Haruno
+* 35 	Kiyotakiji (清滝寺) 	Tosa
+* 36 	Shōryūji (青竜寺) 	Tosa
+* 37 	Iwamotoji (岩本寺) 	Shimanto
+* 38 	Kongōfukuji (金剛福寺) 	Tosashimizu
+* 39 	Enkōji (延光寺) 	Sukumo
+
+'''Ehime'''
+
+* 40 	Kanjizaiji (観自在寺) 	Ainan
+* 41 	Ryūkōji (竜光寺) 	Uwajima
+* 42 	Butsumokuji (佛木寺) 	Uwajima
+* 43 	Meisekiji (明石寺) 	Seiyo
+* 44 	Daihōji (大宝寺) 	Kumakōgen
+* 45 	Iwayaji (岩屋寺) 	Kumakōgen
+* 46 	Jōruriji (浄瑠璃寺) 	Matsuyama
+* 47 	Yasakaji (八坂寺) 	Matsuyama
+* 48 	Sairinji (西林寺) 	Matsuyama
+* 49 	Jōdoji (浄土寺) 	Matsuyama
+* 50 	Hantaji (繁多寺) 	Matsuyama
+* 51 	Ishiteji (石手寺) 	Matsuyama
+* 52 	Taizanji (太山寺) 	Matsuyama
+* 53 	Enmyōji (円明寺) 	Matsuyama
+* 54 	Enmeiji (延命寺) 	Imabari
+* 55 	Nankōbō (南光坊) 	Imabari
+* 56 	Taisanji (泰山寺) 	Imabari
+* 57 	Eifukuji (栄福寺) 	Imabari
+* 58 	Sen'yūji (仙遊寺) 	Imabari
+* 59 	Kokubunji (国分寺) 	Imabari
+* 60 	Yokomineji (横峰寺) 	Saijo
+* 61 	Kōonji (香園寺) 	Saijō
+* 62 	Hōjuji (宝寿寺) 	Saijō
+* 63 	Kichijōji (吉祥寺) 	Saijō
+* 64 	Maegamiji (前神寺) 	Saijō
+* 65 	Sankakuji (三角寺) 	Shikokuchuo
+
+'''Tokushima'''
+
+* 66 	Unpenji (雲辺寺) 	Miyoshi
+
+'''Kagawa'''
+
+* 67 	Daikōji (大興寺) 	Mitoyo
+* 68 	Jinnein (神恵院) 	Kanonji
+* 69 	Kan'onji (観音寺) 	Kanonji
+* 70 	Motoyamaji (本山寺) 	Mitoyo
+* 71 	Iyadaniji (弥谷寺) 	Mitoyo
+* 72 	Mandaraji (曼荼羅寺) 	Zentsuji
+* 73 	Shusshakaji (出釈迦寺) 	Zentsūji
+* 74 	Kōyamaji (甲山寺) 	Zentsūji
+* 75 	Zentsūji (善通寺) 	Zentsūji
+* 76 	Konzōji (金倉寺) 	Zentsūji
+* 77 	Dōryūji (道隆寺) 	Tadotsu
+* 78 	Gōshōji (郷照寺) 	Utazu
+* 79 	Tennōji (天皇寺) 	Sakaide
+* 80 	Kokubunji (国分寺) 	Takamatsu
+* 81 	Shiromineji (白峯寺) 	Sakaide
+* 82 	Negoroji (根香寺) 	Takamatsu
+* 83 	Ichinomiyaji (一宮寺) 	Takamatsu
+* 84 	Yashimaji (屋島寺) 	Takamatsu
+* 85 	Yakuriji (八栗寺) 	Takamatsu
+* 86 	Shidoji (志度寺) 	Sanuki
+* 87 	Nagaoji (長尾寺) 	Sanuki
+* 88 	Ōkuboji (大窪寺) 	Sanuki
+
+PRINT--&gt;
+
+There are also an optional 20 &quot;unnumbered&quot; (番外 ''bangai'') temples.
+
+==Sleep==
+
+* There are many small inns that cater to pilgrims traveling either by foot or car. They typically cost between ¥4000-7000 per night, including dinner.
+
+* Most temples provide lodging for henro, but it can be quite expensive (around ¥8000 per night is average).
+
+* &quot;Henro houses&quot; are run by families or local businesses, and offer rooms (and sometimes food) to walking henro for a very small fee &amp;mdash; or sometimes for free.
+
+* There are also small free lodgings called ''zenkonyado'' and ''tsuyado'' that lodge travelers for the night, although these lodgings can be somewhat poor quality and have very limited facilities. (There is a ''zenkonyado'' near Zentsuji which is said to be haunted.) These were once the primary lodgings for walking henro; however, the island's culture has changed in the last 50 years, and the number of these lodgings have been reduced to just a handful.
+
+==Stay safe==
+
+Traveling in Shikoku is very safe, especially when you wear the traditional henro robes. People will be very helpful if they recognize you as a pilgrim, and will try to participate in your journey by giving you small gifts (''osettai''), which you must always accept.
+
+The weather can be perilous at times; even during the optimal seasons of spring and fall, it may rain for days &amp;mdash; particularly in the south. Proper preparation and staying up to date with weather reports is a must. You are, however, never far from civilization in case of emergency.
+
+Be careful while walking in Kochi Prefecture, as it is the least populated. The major towns are far apart, and the coast is lined with small fishing towns that tend to shut down by eight or nine in the evening, making it difficult to find accommodations.
+
+Shikoku is home to many snakes, including deadly pit vipers. When walking through brush or grass, stomping or otherwise making noise will divert most snakes from your path.
+
+July and August are very hot, and attempting to walk the pilgrimage at the peak of summer is asking for a bad case of heatstroke. But for the brave, it can mean small crowds and almost guaranteed space at the henro houses. April and October are the best times to go, though accommodations will be particularly crowded.
+
+==Go next==
+In one tradition you aren't done when you reach the 88th temple &amp;mdash; some believe you still have to trek back to the 1st to officially complete your pilgrimage! Another tradition suggests that closing the circle is not necessary and it is better to leave it open ended. However it is more common nowadays to return to the 1st temple. 
+
+Also if you've made it this far, it's only good manners to return to [[Mount Koya]] to give your thanks to Kobo Daishi.
+
+==Other Pilgrimage Routes in Japan==
+* [[Chugoku 33 Kannon Temple Pilgrimage]] - If you have the energy, you can easily begin this pilgrimage right after the Shikoku pilgrimage
+* [[Narrow Road to the Deep North]] - Trace the steps of the famous poet Matsuo Bassho
+
+[[WikiPedia:Shikoku Pilgrimage]]
+
+{{related|Shikoku}}
+
+{{usableitinerary}}</text>
+      <sha1>h91sz9hqn22tdp49v0w1zio7mgw500k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aachen</title>
+    <ns>0</ns>
+    <id>33</id>
+    <revision>
+      <id>3189986</id>
+      <parentid>3189984</parentid>
+      <timestamp>2017-04-23T11:26:46Z</timestamp>
+      <contributor>
+        <username>Renek78</username>
+        <id>2165716</id>
+      </contributor>
+      <comment>/* Get in */ Mapshape added</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{pagebanner|Aachen banner Winter Panorama.jpg|unesco=yes}}
+'''[http://www.aachen.de/EN Aachen]''' is a historically important city, spa and university centre in [[North Rhine-Westphalia]], situated at the &quot;three lands corner&quot; where the borders of [[Germany]], [[Belgium]] and the [[Netherlands]] meet. Known as ''Aix-la-Chapelle'' in French and ''Aken'' in Dutch, the city has played a prominent role in early Medieval Europe, when it became the favoured residence of Charlemagne, the first Holy Roman Emperor who created the empire in the late 8th and early 9th century and built the city's impressive cathedral, where he is now buried along with a succession of later German rulers, many of whom were also crowned in the city.
+
+Apart from its medieval significance and a wealth of preserved artifacts, Aachen is also known for its springs, which have been attracting visitors since the Ancient Roman times and continue to do so today, with a number of historic baths and hotels sprinkled around the city. Contributing to the city's wealth and prominence is also the technical university, which made Aachen a hub for modern technologies and provides a sizeable student population (over 40 000 of the total 250 000 inhabitants). With all this, Aachen is now a multi-cultural, popular tourist destination.
+
+Historically this spa-town was a prominent city, the place where the German Kings were crowned, and a famously favoured residence of Charlemagne who still lies buried in the impressive cathedral he himself had built. The city is packed with historic sights that remind of those days, including medieval buildings, city gates and beautiful fountains.
+
+[[File:Aachen-dom-oktogon-s1.jpg|thumb|Aachen Cathedral - Carolingian Octagon]]
+
+==Understand==
+Aachen was the preferred residence of Charlemagne,  &quot;Roman&quot; Emperor from 800 to 814 AD and king of an empire covering much of modern-day Italy, France, Germany and the Benelux. Additional information can be found at the [http://www.route-charlemagne.eu/Startseite/index.html?lang=EN Route Charlemagne Aachen] website.
+
+As Aachen is a legally recognised spa, it could technically call itself Bad Aachen, but refuses to do so, as it then wouldn't be listed first in almost all alphabetical lists.
+
+The city lies at the borders of Germany with Belgium and the Netherlands, forming the economic region called the '''Euregio'''. There are several Euregios in Europe, but regionally speaking just of &quot;the Euregio&quot; is understood to mean the one centered on Aachen.
+
+==Get in==
+{{Mapframe|50.778|6.084|zoom=14|lang=en}}
+{{Mapshape}}
+===By plane===
+Aachen shares its own airport with Maastricht, but '''[http://www.maa.nl/en-us/ Maastricht-Aachen airport]''' (located some 40&amp;nbsp;km outside the city centre, in the Netherlands) is connected to only a limited number of international destinations and served by budget carriers. There's an Airport Express shuttle which runs regularly to and from the main Aachen bus station. It's called [http://www.gilbacher.com Gilbacher] AirportXpress and leaves from platform 4. Tickets can only be purchased from the driver and costs €10. There are no trains between Aachen and the airport.
+
+The nearest large airports are [http://www.duesseldorf-international.de/ Düsseldorf] ({{IATA|DUS}}) and [http://www.airport-cgn.de/index.php Cologne-Bonn] ({{IATA|CGN}}).  Both airports can be reached by train, via the Düsseldorf and Cologne central stations respectively. Other small airports within reasonable distance are Weeze ({{IATA|NRN}}, trains) and &quot;Brussels&quot; South [[Charleroi]] Airport ({{IATA|CRL}}, trains). Also Liège (Lüttich) airport in Belgium is around 45min car journey away. Antwerp airport, also in Belgium, requires a 90-minute car ride. Finally, Eindhoven airport in the Netherlands is at 1 hour car ride distance. Probably Aachen is quite unique in having a total of 8 airports in 3 countries within 140&amp;nbsp;km.
+
+If for some reason none of the nearby airports are feasible or affordable, the airport in [[Frankfurt airport|Frankfurt]] ({{IATA|FRA}}), Germany's main hub, has a direct ICE connection and offers a number of trains to Aachen with one interchange or less.
+For some airports the rail&amp;fly programme the German railways offer together with several airlines might be an option. For more on that see [[rail air alliances]]
+
+===By train===
+[[Image:VorplatzAachenHBf.jpg|thumb|right|220px|Aachen central station (Hauptbahnhof)]]
+====From France and Belgium====
+Both '''[http://www.thalys.com Thalys]''' and '''[http://www.bahn.com ICE-Trains]''' connect {{Marker|type=listing|name=Aachen Hauptbahnhof|lat=50.768005|long=6.091014|url=http://www.bahnhof.de/bahnhof-de/Aachen_Hbf.html?hl=aachen}} with [[Liège]] and [[Brussels]] with Thalys trains continuing to [[Paris]]. There are also local trains from [[Liège]] every two hours.
+
+====From elsewhere in Germany====
+Local trains (''Regionalexpress'') from [[Cologne]] and [[Düsseldorf]] run every half hour and take around 55 minutes from Cologne, 85 to 110 minutes from Düsseldorf. Ten times per day, high speed trains go from [[Cologne]] to [[Brussels]] via Aachen (around 35 minutes), either Inter City Express (coming from [[Frankfurt]]) or Thalys (continuing to Paris).
+
+===By bus===
+
+[http://www.eurolines.de/de/startseite/ eurolines] travel to and from Aachen. There are direct journeys to London (approximately 10 hours), Brussels (3 hours), Paris (6.5 hours) and Prague (11.5 hours), among others. Coaches depart from Wilmersdorfer Straße, on the outskirts of the city. The selection of [[Long distance bus travel in Germany|domestic routes]] is surprisingly less extensive, although Aachen is not far from Cologne, which is served by many more routes.
+
+[[File:Aachen, Münsterplatz, 2011-07 CN-01.jpg|thumb|right|The Münsterplatz]]
+===By car===
+Being on major routes from the Netherlands and Belgium to Germany, easily reachable via the A4 and A44.
+
+[http://www.apag.de/ Parking] in the town centre costs around €2 per hour. There is also [http://www.aachen.de/en/ts/50_how_to_get_to/50_80/50_80_30/index.html park and ride] available around the outskirts of the town.
+
+If you don't have your own vehicle, car-sharing is a possibility. Car-sharing is very common in Germany, but you should of course be cautious when booking a trip nonetheless. [http://www.blablacar.de/ blablacar.de] and [http://www.mitfahrgelegenheit.de/ mitfahrgelegenheit.de] are good resources for finding rides to Aachen, although you're less likely to be successful if you're looking to book far in advance. Payment is expected.
+
+===From The Netherlands ===
+*'''Bus line 50''' from [[Maastricht]] serves Aachen every 15 minutes and passes through [[Margraten]] and [[Vaals]]. '''Bus line 44''' runs between [[Heerlen]] and Aachen (45 min, €3.95)   For €8 you can buy a ticket, which allows all-day travel on South Limburg bus routes, including those to local cities such as Heerlen, and selected train routes.  It is 1 h 15 min from Maastricht.  See [http://www.veolia-transport.nl/dienstregeling/ Veolia Transport] for timetables (Regio: Limburg).
+*From Heerlen there's also a direct '''train''' connection.
+*By car, you can just drive in via Vaals or take the highway. The A76 connects to the German A4. Take exit 2 to Aachen/Laurensberg.
+
+==Get around==
+* {{listing
+| name=ASEAG Customer-Centre | alt= | url= | email=
+| address=Schumacherstraße 14, 52062 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Monday-Friday: 07:30-18:00; Saturday: 08:30-14:00; Sunday: Closed | price=
+| content=On arrival in Aachen, it may be worth visiting the ASEAG Customer-Centre (ASEAG operate the city's bus system) opposite the bus station. Here, you can pick up timetables for all bus routes run by the company and you can of course speak to an adviser as well. There are no timetables available for services run by Veolia, such as the number 50 to Maastricht, or for bus services run by Deutsche Bahn, such as the number 66 to Monschau.
+}}
+* '''By train:''' Whilst Aachen does not have an U-Bahn or S-Bahn network like many other large German cities, it is still possible to travel through the city by train. The euregio-Bahn is a local line that stops at the stations Aachen West (not far from RWTH Aachen University), Aachen-Schanz, Aachen Hauptbahnhof (the most convenient for the city centre) and Aachen-Rothe Erde. A single ticket for a journey within the city is €2.55; ticket machines are available at all stations.
+
+The old town is best explored on foot and orientation signs can be found all around. Aachen at a whole is a fairly large city. A car can come in handy but parking can get expensive, especially in the center of town.
+Fortunately, Aachen has an excellent city '''bus''' system, operated by [http://www.aseag.de ASEAG], including a few night bus lines. You can get tickets from the bus driver. You can rent a '''bike''' at the &quot;fahrrad station&quot;, in the central train station. Although it is not the most biker-friendly town in Germany, there are a number of bike routes and getting around on bike is increasingly popular. '''Taxis''' are readily available on the train stations but also on streets.
+
+==See==
+[[File:Aachen Germany Imperial-Cathedral-01.jpg|thumb|right|Aachen Cathedral]]
+* {{see
+| name=Aachen Cathedral | alt= | url=http://www.aachendom.de/ | email=
+| address=Domhof 1 | lat=50.77475 | long=6.083922 | directions=
+| phone=+49 241 477090 | tollfree= | fax=
+| hours=Opening times of the Cathedral: Jan-Mar: Daily 7AM-6PM, Apr-Dec: Daily 7AM-7PM. Note that during mass access is restricted to attending in the services. Touristic visits are recommended for Mon-Fri after 11AM; Sat-Sun after 12:30 PM | price=
+| wikipedia=Aachen Cathedral | image=Aachener Dom.jpg | wikidata=Q5908
+| content=Aachen Cathedral is one of the most famous examples of occidental architecture. Around 800, the core building of the Palace Chapel was built. During the 14th and 15th centuries, the Gothic choir (the &quot;Aachen glasshouse&quot;), the north and south chapel were added. Through the centuries, many other constructions and decorations were completed. Today, it is a unique and beautiful two-storey cathedral of classical pillars, bronze railings, golden masterpieces, glassworks, etc.&lt;br&gt;The cathedral is the memorial and funeral place of Charlemagne (+814). During 936-1531, 30 kings and 12 queens were anointed, crowned and enthroned here. In the Middle Ages, it was one of Christendom's most important venues for pilgrimage, together with Jerusalem, Rome and Santiago de Compostela. [http://www.heiligtumsfahrt2007.de/ Heiligtumsfahrt] (the Aachen pilgrimage) takes place every year since 1349 (the next one will be in June 2014). In 1978 it was the first German building to be inscribed as a [[UNESCO World Heritage Site]].
+}}
+[[File:Aachen Germany Domschatz Crown-Margaret-of-York-01.jpg|thumb|right|Crown of Margaret of York in the Cathedral's Treasury]]
+* {{see
+| name=Cathedral Treasury | alt=Domschatzkammer | url= | email=
+| address=Johannes-Paul-II.-Straße | lat=50.775048 | long=6.08282 | directions=
+| phone= | tollfree= | fax=
+| hours= Opening times of the treasure grove (Schatzkammer): Jan-Mar: M 10AM-1PM; Tu-Su 10AM-5PM. Apr-Dec: M 10AM-1PM; Tu-Su 10AM-6PM; closed on 24 and 25 Dec, 31 Dec, 01 Jan, and some days around carnival | price=
+| content=Ecclesiastical treasures from Antique, Carolingian, Ottonian and Staufian epochs,including Cross of Lothair and the Bust of Charlemagne.
+}}
+[[File:Aachen city hall Karlsbrunnen.jpg|thumb|right|Aachen city hall]]
+* {{see
+| name=Rathaus | alt= | url=http://www.aachen.de/EN/ts/140_museums/140_70.html | email=
+| address=Markt | lat=50.776025 | long=6.08389 | directions=
+| phone=+49 241 4320 | tollfree= | fax=
+| hours= | price=
+| content=The medieval town hall. The mayor of Aachen still has their office in there.
+}}
+[[File:Aachen ludwig forum.jpg|thumb|right|Ludwig Forum]]
+* {{see
+| name=Ludwig Forum für Internationale Kunst | alt=Ludwig Forum for International Art | url=http://www.ludwigforum.de | email=info@ludwigforum.de
+| address=Jülicher Straße 97-109, 52070 | lat=50.781113 | long=6.101722 | directions=Slightly outside the city centre, in between Stadtgarten and Europaplatz
+| phone=+49 241 1807 104 | tollfree= | fax=
+| hours=Monday: Closed; Tuesday, Wednesday, Friday: 12:00 - 18:00; Thursday: 12:00 - 22:00: Saturday and Sunday: 11:00 - 18:00 | price=Adult €5; Child €3
+| content=While the building looks less than impressive from the outside, ''Ludwig Forum für Internationale Kunst'' houses a grand collection of contemporary art, including works by Andy Warhol, Roy Lichtenstein and Keith Haring. Text accompanying the works is given in both German and English.
+}}
+* {{see
+| name=International Newspaper Museum | alt=Internationales Zeitungsmuseum | url=http://izm.de/en/ | email=
+| address=Pontstraße 13 | lat=50.777236 | long=6.082777 | directions=
+| phone=+49 241 4324910 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+[[File:Elisenbrunnen - Friedrich-Wilhelm-Platz - Altstadt Aachen - Nordrhein-Westfalen - Deutschland (21756704768).jpg|thumb|right|Elisenbrunnen]]
+* {{see
+| name=Elisa Fountain | alt=Elisenbrunnen | url= | email=
+| address=Friedrich-Wilhelm-Platz | lat=50.774054 | long=6.086951 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Built 1827, thermal waters of the spa town.
+}}
+[[File:Couven-Museum - Hühnermarkt - Altstadt Aachen - Nordrhein-Westfalen - Deutschland (21935309446).jpg|thumb|right|Couven-Museum]]
+* {{see
+| name=Couven-Museum | alt= | url=http://couven-museum.de/en/ | email=
+| address=Hühnermarkt 17 | lat=50.775699 | long=6.084821 | directions=
+| phone=+49 241 4324421 | tollfree= | fax=
+| hours= | price=
+| content=18th century house and furniture.
+}}
+* {{see
+| name=Belvedere rotating water tower | alt=Drehturm | url=http://drehturm-aachen.de | email=
+| address=Belvedereallee 5 | lat=50.786513 | long=6.080736 | directions=
+| phone=+49 241 9188043 | tollfree= | fax=
+| hours= | price=
+| content=Park above the town.
+}}
+* {{see
+| name=Grashaus | alt= | url= | email=
+| address=Fischmarkt | lat=50.7746 | long=6.082702 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Original town hall, completed in 1267, is one of the oldest buildings in Aachen.
+}}
+[[File:Haus Löwenstein (Aachen), am Matkt 14.jpg|thumb|right|Haus Loewenstein]]
+* {{see
+| name=Haus Löwenstein | alt= | url= | email=
+| address= | lat=50.776549 | long=6.083601 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=14th century building
+}}
+* {{see
+| name=Suermondt-Ludwig-Museum | alt= | url=http://www.suermondt-ludwig-museum.de/ | email=
+| address=Wilhelmstraße 18 | lat=50.773406 | long=6.095662 | directions=
+| phone=+49 241 4798 | tollfree= | fax=
+| hours= | price=
+| content=German and Dutch sculpture and painting collection.
+}}
+* {{see
+| name=Ponttor | alt= | url= | email=
+| address= | lat=50.781528 | long=6.078333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=14th century city gates.
+}}
+* {{see
+| name=Marschiertor | alt= | url= | email=
+| address= | lat=50.768194 | long=6.086944 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=13th century city gate.
+}}
+* {{see
+| name=Zollmuseum Friedrichs | alt= | url=http://www.zollmuseum-friedrichs.de | email=
+| address=Horbacher Straße 497 52072 Aachen-Horbach | lat=50.84513 | long=6.02016 | directions=Bus 44
+| phone=+49 241 997-0615 | tollfree= | fax=
+| hours=1st and 3rd Sunday 11:00 and 14:30 | price=Phone To Reserve
+| content=Museum about border crossings and the border
+}}
+* '''RWTH Aachen University (Rheinisch-Westfälische Technische Hochschule Aachen)''' If you are interested in architecture, you can find all building styles from 1900 till today concentrated at the city-campus around Templergraben.
+**Main building
+**Kármán Auditorium
+**Audimax
+**Mogam
+** '''Super-C''' The reception building of the RWTH-Aachen. Build to resemble the letter C. Nicely illuminated at night.
+**Reiff Museum
+**Rogowski building
+**Department of mining
+**Semi 90
+**Heizkraftwerk (now lecture halls)
+* {{see
+| name=Uniklinik | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The university's hospital. One striking example of post-modern architecture like the Centre Pompidou in [[Paris]].
+}}
+
+==Do==
+
+* {{do
+| name=Lousberg | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A recreational area situated just north of the city centre that offers stunning views of the city below.
+}}
+* Sit on the Market place (central city) on a summer evening, watch students strolling by, listen to guitar players and have a beer, bought at a small Turkish or Chinese diner around.
+* Walk through the '''Frankenberger Viertel''' (Frankenberg Quarter), an alternative area in the south of Aachen; have lunch or dinner in a Turkish or Arab diner.
+*{{do
+| name=Carolus Thermen | url=http://www.carolus-thermen.de/ | email=
+| address=Passstr. 79 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Large and very well known spa, sauna and wellness place.
+}}
+
+==Learn==
+[[File:1196-18-rwth-aachen-hg-von-hendrik-brixius.jpg|thumb|right|The ''Hauptgebäude'' (main building) of RWTH Aachen]]
+
+Aachen is home to the highly regarded '''RWTH Aachen University''', which is particularly strong in the field of mechanical engineering. While language courses during semester time are only available to students of the university, travellers may be interesting in applying for the ''[http://www.sz.rwth-aachen.de/deutschinternational0.html Internationaler Sommerkurs]'' (International summer course) which takes place annually in September and is open to students from some partner universities. Alongside an intensive language course, participants can take advantage of the programme of cultural events offered. To apply, one must be at least 18 years old and have prior knowledge of German at level A1 (the lowest level, roughly equivalent of being able to write a post card) on the Common European Framework for Languages or above.
+
+[[File:Aachen (616896017).jpg|thumb|right|A range of goods for sale at the Christmas market]]
+
+==Buy==
+[[File:Aachen, Kapuzinerkarree -- 2016 -- 2832.jpg|thumb|right|Kapuiziner Karree, a historic multi-use building in Aachen, with a cinema, restaurants, shops and offices]]
+[[Germany#Opening hours|German opening hours]] have a lessened effect in Aachen, as just across the border in the Netherlands, all shops are open in the small town of '''[[Vaals]]''', which can be reached by bus lines 25, 33, 35 and 50.
+* {{see
+| name=Aachen Christmas Market | alt=Aachener Weihnachtsmarkt | url=http://aachenweihnachtsmarkt.de/en/ | email=info@mac-aachen.de
+| address= | lat= | long= | directions=Located in the city centre. Parking nearby can be an issue some days, so it may be wise to make use of the Park &amp; Ride system organised especially for the market. See the website for more information.
+| phone=+49 2 41 2 51 41 | tollfree= | fax=
+| hours=11:00 &amp;ndash; 21:00 daily | price=Free entry
+| content=From late November until 23 December, Aachen's Christmas market takes over Katschhof, Münsterplatz and the market square. Traders offer a wide variety of gift ideas, such as cosmetics, jewellery and ceramics, and there are plenty of opportunities to eat and drink your fill - a trip here wouldn't be complete without a glass of ''Glühwein''! If you need a break, take in a performance at the rear of the town hall (see the website for a detailed programme). The market looks particularly spectacular when lit up at night, set against the magnificent cathedral and town hall.
+}}
+* {{buy
+| name=Adalbertstraße | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Multiple shops and cafes in one of Aachen's pedestrian zone shopping areas.
+}}
+* {{buy
+| name=Krämerstraße and Market | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Small shops in a very touristic area.
+}}
+* {{buy
+| name=Großkölnstraße | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The second big pedestrian zone shopping area in Aachen, where you´ll find clothing and more.
+}}
+* {{buy
+| name=Jakobstraße | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Smaller shops and boutiques.
+}}
+* {{buy
+| name=Lindt Factory Outlet | alt=Lindt Werksverkauf | url=http://www.lindt.de/swf/ger/service/verbraucher-service/lindt-shops/werksverkauf-aachen/ | email=
+| address=Süsterfeldstraße 130, 52072 | lat=50.784532 | long=6.067655 | directions=
+| phone= | tollfree= | fax=
+| hours=Monday-Friday: 09:00 - 18:00; Saturday: 09:00 - 16:00 | price=
+| content=Stocks a wide range of Lindt chocolate products, at low prices, which have been produced in the neighbouring factory.
+}}
+* {{buy
+| name=Labertz Factory shop | alt= | url=https://www.lambertz-shop.de/industrial-selling?___store=english&amp;___from_store=default | email=
+| address=Ritterstraße 9 | lat=50.789361 | long=6.065159 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=gingerbread and biscuits
+}}
+[[File:Aachen 05721.jpg|thumb|Aachener Printen]]
+Aachener Printen are a type of Lebkuchen (gingerbread) originating from the city.
+* {{buy
+| name=Nobis Printen | alt= | url=http://www.nobis-printen.de/ | email=
+| address=Münsterplatz 3 | lat=50.774566 | long=6.084819 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{buy
+| name=Klein Printenbäckerei | alt= | url=http://www.printen.de/ | email=
+| address=Krämerstraße 12 | lat=50.775487 | long=6.084304 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Eat==
+Aachen offers many different cuisines, from traditional German food to exotic cuisines. The centre offers restaurants of all categories, prices being relatively cheap in comparison with other German cities. Students prefer the snack bars and light meals offered at Pontstraße.
+
+=== Budget ===
+* {{eat
+| name=Pont Grill | alt= | url=http://www.pontgrill.de/ | email=
+| address=Pontstraße 119 | lat=50.780021 | long=6.080203 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Very cheap and good Chicken, Pizza and Turkish food.
+}}
+
+* {{eat
+| name=Polonia | alt= | url=http://www.polonia-aachen.de | email=
+| address=Marienbongard 24 | lat=50.779941 | long=6.078234 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Polish bistro. Has lunch offers. Four to six different Polish beers.
+}}
+* {{eat
+| name=Frietnesse | alt= | url= | email=
+| address=Pontstraße | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Fries with over 50 different sauces. Also hamburgers and Dutch specialities.
+}}
+* {{eat
+| name=Saray | alt= | url=http://www.ichliebeaachen.de/saray/ | email=
+| address=Pontstraße 118 | lat=50.779517 | long=6.080645 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Turkish food besides döner kebab.
+}}
+* {{eat
+| name=Jakobsimbiss | alt= | url= | email=
+| address=Jakobstraße 75 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Chinese and Thai fast food.
+}}
+* {{eat
+| name=Del Negro | alt= | url=http://www.eiscafedelnegro.de/ | email=
+| address=Jakobstraße 73 | lat=50.772533 | long=6.077271 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Best ice cream in town.
+}}
+* {{eat
+| name=Sultans of Kebab | alt= | url= | email=
+| address=Peterstraße 23 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Döner Kebab, Turkish desserts.
+}}
+* {{eat
+| name=Babylon | alt= | url= | email=
+| address=Königstraße / Karlsgraben | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=&quot;The Kebab Cube&quot; if you have only €2,20 left.
+}}
+
+=== Mid-range ===
+* {{eat
+| name=Goldener Schwan | alt= | url= | email=
+| address=Markt 37 | lat=50.776521 | long=6.083458 | directions=Opposite Rathaus
+| phone=+49 241 31649 | tollfree= | fax=
+| hours= | price=
+| content=15th century building where you can now get local and German meals. For example Aachener Puttes a type of ''Blutwurst'' similar to English black pudding.
+}}
+* {{eat
+| name=Maredo | alt= | url=http://www.maredo.de/nc/restaurants/standorte/detailansicht/aachen.html | email=
+| address=Reihstraße 10 | lat=50.77364 | long=6.089745 | directions=
+| phone=+49 241 21408 | tollfree= | fax=
+| hours= | price=
+| content=Delicious Argentinian food chain based in Germany. Good food, not expensive. Open late and offer late-night specials as well as lunch specials.
+}}
+* {{eat
+| name=Estado Steakhaus | alt= | url=http://www.restaurant-estado.de/ | email=
+| address=Seilgraben 39 | lat=50.778416 | long=6.085226 | directions=
+| phone=+49 241 23800 | tollfree= | fax=
+| hours= | price=
+| content=Great steakhouse with a salad bar and wide variety of dishes.
+}}
+* {{eat
+| name=Carlos I | alt= | url= | email=
+| address=Rennbahn 1 | lat=50.774595 | long=6.082212 | directions=next to the Cathedral
+| phone=+49 241 29666 | tollfree= | fax=
+| hours= | price=
+| content=This Spanish restaurant offers authentic Spanish cuisine like Tapas, the perfect food for sharing, Paella etc. at medium prices
+}}
+* {{eat
+| name=San Sheng | alt= | url= | email=
+| address=Pontdriesch 13 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Open only during weekday lunch hours. | price=
+| content=Authentic Chinese food.
+}}
+* {{eat
+| name=Oishii | alt= | url=http://www.oishii.de/ | email=
+| address=Pontstraße 83 | lat=50.779215 | long=6.080575 | directions=
+| phone=+49 241 900 8360 | tollfree= | fax=
+| hours= | price=
+| content=Great Japanese restaurant. Reserve your table in advance.
+}}
+* {{eat
+| name=Maranello | alt= | url=https://www.facebook.com/pizzeria.maranello | email=
+| address=Pontstraße 23 | lat=50.777511 | long=6.082566 | directions=
+| phone=+49 241 46363642 | tollfree= | fax=
+| hours=11AM-11PM daily | price=
+| lastedit=2017-01-29
+| content=Italian Pizza from a real stone oven.
+}}
+* {{eat
+| name=Karibik | alt= | url=http://www.kolumbiens-gute-kueche.de | email=
+| address=Sandkaulstraße 5 | lat=50.778976 | long=6.08842 | directions=
+| phone=+49 1573 5570933 | tollfree= | fax=
+| hours= | price=
+| content=Colombian restaurant.
+}}
+* {{eat
+| name=Knossos | alt= | url=http://www.knossos-ac.de/ | email=
+| address=Templergraben 28 | lat=50.776395 | long=6.076742 | directions=
+| phone=+49 241 30511 | tollfree= | fax=
+| hours= | price=
+| content=Greek restaurant frequented mostly by students.
+}}
+* {{eat
+| name=Bacchus | alt=Restaurant Bacchus | url=http://bacchus-aachen.de/restaurant/ | email=info@bacchus-aachen.de
+| address=Roermonder Str. 28 | lat=50.78295 | long=6.07687 | directions=With Buslines 24, 27, 33, 44 und 47 from Aachen BusCentral station towards Pontstreet and Bendplatz. Get off at Ponttor and follow the road straight through the Ponttor and then through the underpass direction Bendplatz. On the other side of the underpass, go straight ahead. After about 50 meters you will find us on the right handside. For car drivers, parking lots are available in the Rütscher Straße, in Turmstraße, on Roermonder Straße, as also around the Bendplatz which is just 350m away.
+| phone=+49 241 155545 | tollfree= | fax=
+| hours=Mon - Fri: 16:00–23:00, Sat - Sun: 12:00–23:00 | price=
+| lastedit=2015-04-28
+| content=Great Greek Restaurant with a wide variety of dishes. Absolutely recommendable Gyros and Grill dishes
+}}
+
+=== Splurge ===
+* {{eat
+| name=La Bécasse | alt= | url=http://www.labecasse.de | email=
+| address=Hanbrucher Straße 1 | lat=50.770068 | long=6.069235 | directions=
+| phone=+49 241 74444 | tollfree= | fax=
+| hours= | price=
+| content=French restaurant
+}}
+
+[[File:Aachener Rathaus bei Nacht.jpg|thumb|right|Rathaus by night]]
+==Drink==
+There's no need to order your drinks at the bar when in Aachen - simply take a seat and a member of staff will come over to take your order. They'll write down what you've ordered on your coaster. When you've finished your drink, someone will soon come along and ask if you'd like to order another. When you're ready to pay, hand over your coaster to a member of staff. It's expected that you leave a small tip when paying; 5 - 10 % is expected, typically by rounding up to the nearest Euro. You should make it clear you want to leave a tip before handing the money over by saying, for example, &quot;I'll pay €8&quot;.
+
+[[File:Uka landeplatz morgengrauen.jpg|thumb|right|A helipad in Aachen lit up at dusk]]
+The '''Pontstraße''' begins at ''Markt'' facing the historic city hall and ends at the ''Ponttor'', part of the medieval city walls. Pontstraße is the main student hangout and offers a large variety of restaurants and bars, from pizzerias to late night hangout spots and a cinema ([http://www.apollo-aachen.de/ Apollo]). A special treat are public fiestas happening at Karneval and important football matches. Don't miss it if you have the chance! Reached by a number of bus lines from Bushof; park near University.
+* {{drink
+| name=Molkerei | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Pub suitable for younger crowd, near Ponttor.
+}}
+* {{drink
+| name=Cafe Madrid | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Pub/Bar better for an older crowd, posher, near Ponttor.
+}}
+* {{drink
+| name=Pontgarten | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Cheap Cocktails and nice food.
+}}
+* {{drink
+| name=Sowiso / Oceans | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Typical student-inn.
+}}
+* {{drink
+| name=Egmont | alt= | url=http://www.cafe-egmont.de/ | email=kontakt@egmont-aachen.de
+| address=Pontstraße 1–3 | lat= | long= | directions=Right at one end of ''Pontstraße'', close to the ''Rathaus''
+| phone=+49 241 40 77 46 | tollfree= | fax=
+| hours=Monday&amp;ndash;Saturday: Open from 8AM; Sunday: Open from 9AM | price=
+| content=A delightful bar/café that occasionally hosts live music. Food can be ordered from the Lebanese restaurant next door and brought to your table without you having to get up!
+}}
+Nice pubs elsewhere:
+* {{drink
+| name=Guinness House | alt= | url=http://www.guinness-house.de | email=
+| address=Neupforte 6, 52062 | lat= | long= | directions=Despite the address to the left, the entrance is actually located just around the corner on Mostardstraße. It's situated between the city centre and the Pontstraße.
+| phone=+49 241 40 22 11 | tollfree= | fax=
+| hours= | price=
+| content=A stereotypical Irish Pub, just like you'd find in any other big city. However, it's one of the few places in Aachen that sells cider, so it's definitely worth checking out if beer isn't your thing! There's also live music (more often that not traditional Irish music) here on a regular basis.
+}}
+* {{drink
+| name=Kiste | alt= | url= | email=
+| address=Büchel 36 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Small pub. Has a discount on different drinks each day.
+}}
+*{{drink
+| name=Buddha Bar | url= | email=
+| address=Büchel 14 | lat= | long= | directions=Close to the old town square
+| phone=+49 2414012590 | tollfree= | fax=
+| hours= | price=
+| content=Nice food, has a non-smoking area upstairs with restaurant and bar plus a cool smoking area downstairs with an impressive Buddha statue.
+}}
+
+[[File:Quellenhof Aachen.JPG|thumb|right|The Quellenhof]]
+
+==Sleep==
+[[File:Aachen, Deutsche Bank, 2011-07 CN-01.jpg|thumb|right|A Deutsche Bank branch in Aachen, an example of 20th century architecture]]
+===Budget===
+*  {{sleep
+| name=Hostel Aachen | alt= | url=http://www.hostel-aachen.de/ | email=
+| address=Mauerstraße 116 | lat=50.770821 | long=6.073647 | directions=
+| phone=+49 241 4305288 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Close to the city centre.
+}}
+*  {{sleep
+| name=Youth hostel Aachen | alt=Jugendherberge Aachen - Euregionales Jugendgästehaus | url=http://aachen.jugendherberge.de/ | email=
+| address=Maria Theresia Allee 260 | lat=50.752735 | long=6.072882 | directions=
+| phone=+49 241 71101-0 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+
+=== Mid-range ===
+* {{sleep
+| name=Leonardo Hotel Aachen | url=http://www.leonardo-hotels.com/germany-hotels/aachen-hotels | email=
+| address=Krefelder Straße 221 | lat=50.797578 | long=6.103258 | directions=North of the centre between the stadium and junction 3 of the A4
+| phone=+49 241 18030 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Hotel Granus | alt= | url=http://www.hotel-granus.de | email=
+| address=Passstraße 2a | lat=50.779404 | long=6.09844 | directions=
+| phone=+49 241-152071 | tollfree= | fax=
+| checkin=2PM | checkout=11AM | price=Doubles from €90
+| content=This friendly family-run place has 12 rooms and a bit of a cosy B&amp;B atmosphere. It's clean and conveniently located in the city centre, with fairly modern rooms and a somewhat quaint breakfast area. It gets good reviews, also suited for family stays. On weekends, the reception has limited opening hours.
+}}
+
+===Splurge===
+*{{sleep
+| name=Pullman Aachen Quellenhof | url=http://www.accorhotels.com/gb/hotel-5327-pullman-aachen-quellenhof/index.shtml | email=
+| address=Monheimsallee 52 | lat=50.781473 | long=6.090608 | directions=
+| phone=+49 241 91320 | tollfree= | fax=
+| checkin= | checkout= | price=from €130
+| content=Spacious, comfortable rooms (although some could do with a little redecoration), a swimming pool, fitness area and excellent breakfast buffet.
+}}
+
+==Connect==
+
+* {{listing
+| name=Post Office | alt= | url= | email=
+| address=Kapuzinergraben 19, 52062 | lat= | long= | directions=When on Kapuzinergraben, go through the entrance to Kapuziner Karree. You'll see the Post Office on your right.
+| phone= | tollfree= | fax=
+| hours=Monday-Friday: 09:00-18:00; Saturday: 09:00-14:00; Sunday: Closed | price=
+| content=This is probably the most convenient Post Office for tourists as it's located in the city centre. The service is operated by Deutsche Post.
+}}
+
+==Cope==
+'''Religious services'''
+[[Image:StMichaelAachenBurtscheid.JPG|thumb|Saint Michael, Aachen-Burtscheid]]
+Here's an overview of Christian churches in central Aachen:
+
+Catholic churches:
+
+* {{listing
+| name= Aachen Cathedral| alt= Der Aachener Dom / Hohe Domkirche| url= http://www.aachendom.de/en/| email=info@aachenerdom.de
+| address=Klosterplatz 2| lat= | long= | directions=Domhof - 15 min from central station
+| phone= +49 241 47 70 9110| tollfree= | fax= +49 241 47 70 9144
+| hours=Sun: 07:00 h, 08:00 h, 10:00 h, 11:30 h; Mon-Sat: 07:00 h, 10:00 h; Sat: 08:00 h | price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name=St. Foillan | alt= | url=http://www.franziska-aachen.de/gemeinden/st-foillan/ | email=pfarrbuero@franziska-aachen.de
+| address= Ursulinerstr. 1| lat= | long= | directions=just behind Aachener Dom
+| phone=+49 241 470 3270 | tollfree= | fax=
+| hours= Su 10:00, 19:30; M-F 08:30, 18:30; Sa 18:30| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name= St. Marien| alt= | url= http://www.franziska-aachen.de/gemeinden/st-marien/| email=
+| address= Aureliusstraße 23| lat= | long= | directions=3 min from central station
+| phone=+49 241 30725 | tollfree= | fax=
+| hours=Sat: 18:30; Sun: 09:45, 11:15 (pol.), 16:00 (pol.); Tue, Thu: 18:30; Fri: 18:15 (pol.) | price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name= St. Peter| alt= | url= http://www.franziska-aachen.de/gemeinden/st-peter/| email=
+| address= Peterskirchhof 1 | lat= | long= | directions=20 min from HBf; near bus depot
+| phone=+49 241 44881 | tollfree= | fax=
+| hours= Sat: 15:00 (vietn.); Sun: 11:15; Mon-Fri: 12:15| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name= St. Michael| alt= | url= | email=
+| address=Michaelsbergstr. 6  | lat= | long= | directions=Burtscheid
+| phone= | tollfree= | fax=
+| hours=  Sat: 18:15 h; Sun: 19:00 h; Wed, Fri: 18:00 h| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+For Protestant churches in Aachen see also: [http://www.evangelisch-in-aachen.de/kirchen_und_gemeindezentren/] 
+
+* {{listing
+| name= Annakirche| alt= | url=http://www.evangelisch-in-aachen.de/annakirche0/ | email=
+| address= Annastraße 35| lat= | long= | directions=15min from central station
+| phone= | tollfree= | fax=
+| hours= Sun: 11 hrs| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name= Auferstehungskirche| alt= | url= http://www.evangelisch-in-aachen.de/auferstehungskirche0/| email=
+| address=Am Kupferofen 19-21 | lat= | long= | directions=south from station Aachen-Rothe Erde
+| phone= | tollfree= | fax=
+| hours= Sun: 9:30 hrs| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+Other:
+
+* {{listing
+| name= Greek-orthodox church St. Michael &amp; St. Dimitrios| alt= | url= http://www.orthodoxie.net/index.php?id=3| email=aachen@orthodoxie.net 
+| address= Jesuitenstr. 6| lat= | long= | directions=close to the cathedral
+| phone= +49 241-28572| tollfree= | fax=
+| hours= Sun: 9:00 hrs| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name=Jewish community Aachen | alt= | url= http://www.jgaachen.de/index.htm| email=info@jgaachen.de
+| address= Synagogenplatz 23| lat= | long= | directions=
+| phone= +49 241-47780-0| tollfree= | fax=
+| hours=M-Fr: 8AM-2PM | price=
+| lastedit=2017-01-29
+| content=
+}}
+
+* {{listing
+| name= Bilal Mosque| alt= | url=http://www.izaachen.de/ | email=kontakt@izaachen.de
+| address= Prof.-Pirlet-Str. 20| lat= | long= | directions=near railway station Aachen-West
+| phone= +49 241-88906| tollfree= | fax=
+| hours= Friday prayer: 13:15 h| price=
+| lastedit=2017-01-29
+| content=
+}}
+
+==Go next==
+*[[Neupré]] - '''World War II Ardennes American Cemetery and Memorial''', commemorates the American soldiers who died in Northern Europe during WWII
+*[[Henri-Chapelle]] - '''World War II Henri-Chapelle American Cemetery and Memorial'''. The final resting place for 7,992 American military dead lost during the drive into Germany
+* '''Dreiländereck'''- The three-country border of Germany, the Netherlands and Belgium. Just a 10 min drive out of Aachen in the general direction of Vaals (Netherlands). Walk on the soil of three different European countries in just about under a second. Free. This is also the highest point of the Netherlands. There is a watchtower you can climb. You can get there best if you take the bus to Vaals and take Veolia Transport line 149 or walk.
+
+* '''[[Cologne]]''' - Germany's fourth largest city, with its striking cathedral, is less than an hour away by train.
+
+* '''[[Zülpich]]''' is a small town dating from Roman times on the road to [[Bonn]]. It has a newly opened museum focusing on Roman baths and bathing culture. It is also a gateway to the [[Eifel]] region.
+
+* '''[[Maastricht]]''' in the Netherlands with its beautiful city centre is where the Maastricht Treaty of the European Union was signed in 1992
+
+* '''[[Monschau]]''' Nicely preserved medieval town.
+
+* '''[[Nationalpark Eifel]]''' The youngest nature preservation area in Germany
+
+* '''[[Ordensburg Vogelsang]]''' Huge Nazi-built training centre near Gemünd. Served as Belgian barracks after the war, so they're quite well preserved.
+
+* '''[[Hohes Venn]]''' Marshlands between Monschau and Eupen
+
+{{usablecity}}
+
+{{geo|50.7753|6.0828|zoom=14}}
+
+{{IsPartOf|Eifel (North Rhine-Westphalia)}}
+
+[[WikiPedia:Aachen]]
+[[Dmoz:Regional/Europe/Germany/States/North Rhine-Westphalia/Localities/Aachen/]]
+
+[[Commons:Aachen]]</text>
+      <sha1>6fk70c7y23lhp4nxnckarzj0kuezre4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aaiún</title>
+    <ns>0</ns>
+    <id>34</id>
+    <redirect title="El Aaiún" />
+    <revision>
+      <id>401</id>
+      <timestamp>2007-04-30T02:40:06Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>36077</id>
+      </contributor>
+      <comment>#REDIRECT [[El Aaiún]] (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[El Aaiún]]</text>
+      <sha1>8c8h7jgk2z7tcjc8ne1m4z8zl4y3rn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aaiun</title>
+    <ns>0</ns>
+    <id>35</id>
+    <redirect title="El Aaiún" />
+    <revision>
+      <id>402</id>
+      <timestamp>2007-04-30T02:40:09Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>36077</id>
+      </contributor>
+      <comment>#REDIRECT [[El Aaiún]] (Import from wikitravel.org/en)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[El Aaiún]]</text>
+      <sha1>8c8h7jgk2z7tcjc8ne1m4z8zl4y3rn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aakirkeby</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>3106578</id>
+      <parentid>3042563</parentid>
+      <timestamp>2016-12-21T17:27:17Z</timestamp>
+      <contributor>
+        <username>DethDestroyerOfWords</username>
+        <id>2129351</id>
+      </contributor>
+      <comment>/* Get around */ maps for all!</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{pagebanner|Aakirkeby Wikivoyage banner.jpg}}
+'''Aakirkeby''' is a city on [[Bornholm]], [[Denmark]].
+
+[[Image:AAkirkebyKirke.jpg|thumb|400px|the Church]]
+
+==Understand==
+
+==Get in==
+
+==Get around==
+{{Mapframe|55.069890|14.920154|zoom=12|height=|width=|layer=|staticmap=|align=|name=Aakirkeby}}
+[[Image:AAkirkebySquare.jpg|thumb|the Square]]
+
+==See==
+
+* '''The church'''
+* '''Naturbornholm'''
+
+==Do==
+==Buy==
+
+==Eat==
+
+* {{eat
+| name=Gåsen | alt= | url= | email=
+| address= | lat=55.0707401 | long= 14.920326 | directions=
+| phone=+45 56975097 | tollfree= | fax=
+| hours= | price=
+| content=Jernbanegade 1, the 2-person pickled herring platter is a good deal.
+}}
+
+==Drink==
+
+==Sleep==
+* {{sleep
+| name=Aakirkeby Camping | alt= | url=http://www.acamp.dk | email=info@acamp.dk
+| address=Haregade 23, 3720 Aakirkeby | lat=55.06199 | long=14.92336 | directions=
+| phone=+45 56 97 55 51 or +45 28 15 12 19 (mobil) | tollfree= | fax= 
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Danhostel Boderne ''Rosengaarden'' (Vandrerhjem) | alt= | url=http://www.rosengaarden.dk | email=boderne@danhostel.dk
+| address=Bodernevej 28, 3720 Aakirkeby | lat=55.03482 | long=14.91594 | directions=
+| phone=+45 56 97 49 50  | tollfree= | fax= 
+| checkin= | checkout= | price=
+| content=
+}}
+
+==Connect==
+
+==Go next==
+
+{{geo|55.0694214|14.9204372}}
+{{isPartOf|Bornholm}}
+
+
+{{outlinecity}}
+
+[[Wikipedia:Aakirkeby]]
+
+[[Commons:Category:Aakirkeby]]</text>
+      <sha1>fn98lf1hn68a4agclvk16d8gcpksybl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aalborg</title>
+    <ns>0</ns>
+    <id>37</id>
+    <revision>
+      <id>3196007</id>
+      <parentid>3195032</parentid>
+      <timestamp>2017-05-03T08:27:57Z</timestamp>
+      <contributor>
+        <username>Andrewssi2</username>
+        <id>74811</id>
+      </contributor>
+      <comment>/* Understand */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{pagebanner|Aalborg banner Architectural detail.jpg}}
+'''[http://www.visitaalborg.com Aalborg]''' is the largest city in [[North Jutland]], [[Denmark]]. Its population, as of 2016, is 134,672, making it the fourth largest city in [[Denmark]].
+[[File:Aalborg Havnefront 2.jpg|300px|thumbnail|Aalborg waterfront by night]]
+
+== Understand ==
+Aalborg is the capital and largest city in the region of North Jutland. A university town and a regional centre for education. It has a long history as an industrial  and port town with an international airport that also serves [[Copenhagen]].
+Aalborg is an old town with many preserved buildings and important prehistoric relics, but also thriving cultural life with several institutions of national importance. The Tourist Information of Aalborg has its headquarters in Nordkraft, a culture centre at the harbourfront.
+
+==Get in==
+===By plane===
+
+[http://norwegian.com/ Norwegian] and [http://flysas.com SAS] have flights from Copenhagen to Aalborg, while Norwegian also offers international direct flights from European cities. The airport is the third largest in Denmark and is located north of the city. Take Bus no 2 or a taxi (very expensive!) to town. The bus is infrequent on weekends and evenings, and stops the service rather early (around 23:00). If you arrive very late, have little luggage and small budget, you can walk ~2km until the Lindholm train station. Bus or train to the center should be still available after midnight.
+
+===By bus===
+Aalborg Busterminal on John F Kennedy Plads (The John F Kennedy square, phone: 98 12 87 13) right by the station is a large regional hub for long distance, regional and local buses. Express buses (''XBus'' [http://www.xbus.dk/]) leaves several times per day towards Aarhus (via Hadsund), Løgstør, Holstebro, Viborg (via Silkeborg) and Esbjerg. In addition regional buses (locally known as rutebil) connects to nearly every city of some size in North Eastern Jutland.
+
+* '''Abilskou''' route 888 [http://www.abildskou.dk/go.asp?LangRef=4] to [[Copenhagen]] takes 5 hours, DKK 250 (DKK 430 return).
+
+===By train===
+
+Aalborg is on the [[Copenhagen]], [[Roskilde]], [[Odense]], [[Aarhus]] Line. 4½ hours/DKK 402 to Copenhagen.
+
+===By ferry===
+
+There are ferries from Norway/Sweden/UK coming to North Jutland ([[Hirtshals]] or [[Frederikshavn]]). From there you can take bus or train to Aalborg.
+
+===By car===
+From Frederikshavn: Use the E45 southbound to Aalborg.&lt;br /&gt;
+From Hirtshals: Use the E39 southbound to Aalborg.&lt;br /&gt;
+From Aarhus: Use the E45 northbound to Aalborg.&lt;br /&gt;
+
+==Get around==
+{{Mapframe|57.044163|9.916059|zoom=12|height=|width=|layer=|staticmap=|align=|name=}}
+In the center it easy to walk by foot. To go further, there is a good public bus system (20 DKK for 1.5h if you pay cash, 12 DKK after 18:00). The buses don't go at night, and taxis are very expensive. The best way is still to get around by bicycle, you can rent one close to tourist information office or at several other locations using the city-bike system. There is also a city bike scheme where you may borrow a bicycle after giving a 20 DKK deposit. For longer stays, a better option is buying one. Police has auctions once per month, you can ask about them in the police station.
+
+Nørresundby is north of Limfjordsbroen.
+
+==See==
+* {{see
+| name=Aalborg Zoo | alt= | url=http://aalborgzoo.dk/UserFiles/engelsk_hjemmeside.pdf | email=
+| address=Mølleparkvej 63 | lat=57.037047 | long=9.897919 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Aalborg Zoo
+| content=Cosy zoo with many &quot;classic&quot; zoo animals such as giraffes, elephants and big cats. The biggest enclosure is the savanna, where several African animals are free-ranging. There is also a big playground and a nice restaurant.
+}}
+
+* {{see
+| name=Aalborg Akvavit | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Distillery.
+}}
+
+* {{see
+| name=Aalborghus Castle | alt=Aalborghus Slot | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Aalborghus
+| content=A castle and garden from the 16th century.
+}}
+
+* {{see
+| name=Aalborg Tower | alt= | url= | email=
+| address=Søndre Skovvej 30 | lat=57.041618 | long=9.904929 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Aalborgtårnet
+| content=
+}}
+
+* {{see
+| name=Aalborg Townhall | alt= | url= | email=
+| address=Gammel Torv 2 | lat=57.048265 | long=9.920728 | directions=
+| phone=+45 9931 3131 | tollfree= | fax=
+| hours= | price=
+| content=Built in 1759.
+}}
+
+[[Image:Budolfi_Aalborg_dk.jpg|thumb|Budolfi church]]
+* {{see
+| name=Budolfi Church | alt= | url=http://www.aalborgdomkirke.dk/UserFiles/file/ENG_12s_A5_Budolfi_4f_300609_LOW.pdf | email=
+| address= | lat=57.047778 | long=9.919444 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Budolfi Church
+| content=The Lutheran cathedral in Aalborg.
+}}
+
+[[Image:Elbjorn.jpg|thumb|Elbjørn]]
+[[Image:JensBangHouse.jpg|thumb|Jens Bangs house (1623-1624)]]
+* {{see
+| name=Jens Bangs Stenhus | alt= | url= | email=
+| address=Østerågade 9 | lat=57.048463 | long=9.921019 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jens Bang's House
+| content=Beautiful renaissance house, built in 1624 by the merchant Jens Bang.
+}}
+
+* {{see
+| name=Jørgen Olufsens House | alt= | url= | email=
+| address=Østerågade 25 | lat=57.049686 | long=9.921991 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Jørgen Olufsen's House
+| content=Well preserved renaissance house from 1616 by the merchant Jørgen Olufsen.
+}}
+
+* {{see
+| name=Royal Taxhouse | alt= | url= | email=
+| address=Strandvejen 1 | lat=57.050444 | long=9.922164 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Built in 1902 representing national romantic architecture. In 2005, it was brought back to its original style. Next to the house is a musical fountain, during summer at noon, 3PM, 6PM and 9PM Händel's Water Music accompanise the splashing water.
+}}
+
+* {{see
+| name=Ancient Viking graveyard | alt= | url= | email=
+| address=Vendilavej 11, Lindholm Høje, Nørresundby | lat=57.078236 | long=9.909973 | directions=
+| phone=+45 9931 7440 | tollfree= | fax=
+| hours=Apr-Oct 10AM–5PM, Nov-Mar Tu-Su 10AM–4PM | price=60 Kr, seniors and students 45 Kr, children below 18 years free
+| content=
+}}
+
+===Galleries===
+* {{see
+| name=Atelier Olsson | url=http://www.atelier-olsson.dk/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+* {{see
+| name=Art museum | alt=Kunsten | url=http://www.nordjyllandskunstmuseum.dk/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+=== Aalborg habourfront ===
+The harbourfront has been renewed and is now centre for culture and education. The entire area offers an inspiring city walk in itself.
+
+* {{see
+| name=Utzon Centre | alt= | url=http://www.utzoncenter.dk/en/welcome.htm {{dead link|January 2017}} | email=info@utzoncenter.org
+| address=Slotspladsen 4 | lat=57.049472 | long=9.926418 | directions=
+| phone=+45 7690 5000 | tollfree= | fax=
+| hours=Tu-Su 10AM-5PM | price=60 Kr, seniors 40 Kr, students 20 Kr, children under 18 years free, group 40 Kr
+| content=A cultural centre exhibiting art, architecture and design. Focuses on Jørgen Utzon's own work and other work somehow related to him. Also has a restaurant.
+}}
+
+* {{do
+| name=Musikkens Hus | alt= | url= | email=
+| address= | lat= | long= | directions=At the harbourfront next to Nordkraft and the Utzon Center
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-02-02
+| content=The concert halls and school of music. Fantastic architecture.
+}}
+
+* {{see
+| name=Elbjørn | url=http://www.isbryderen-elbjorn.dk {{dead link|January 2017}} | email=info@isbryderen-elbjorn.dk
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Icebreaker now working as a restaurant and culture ship at the Aalborg harbour. It has a restaurant, a bar, glass workshop, and a museum.
+}}
+
+=== Nature sites ===
+* {{see
+| name=Kildeparken | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kildeparken
+| content=
+}}
+
+* {{see
+| name=Lille Vildmose | alt= | url= | email=
+| address= | lat= | long= | directions=southeast of Aalborg and hard to reach by public transport
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Lille Vildmose
+| content=The largest raised bog in Western Europe, good wildlife exhibition center with small cafe and restaurant and excellent bird watching.
+}}
+
+==Do==
+* {{do
+| name=Aalborg Karnival | alt= | url=http://www.karnevaliaalborg.dk/english/jetcom.htm {{dead link|January 2017}} | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Aalborg Carnival
+| content=The biggest carnival in Northern Europe. If you want to have fun with Danish people this is a great opportunity.
+}}
+
+* {{do
+| name=Bicycle | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Rent a bicycle and go along the fjord.
+}}
+
+* {{do
+| name=Casino Aalborg | alt= | url=http://www.casinoaalborg.dk/ | email=casino@casino-aalborg.dk
+| address=Ved Stranden 16 | lat=57.050996 | long=9.919609 | directions=
+| phone=+45 9810 1550 | tollfree= | fax=+45 9933 7099
+| hours=Su–Th 8PM–3AM, F-Sa 8PM–AM | price=50 Kr
+| content=Offer American Roulette, Black Jack, Poker and slot machines. Nice experience, but the atmosphere here is not as chic and international as you might expect.
+}}
+
+* {{do
+| name=Egholm | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Take a ferry to this small island in the fjord.
+}}
+
+* {{do
+| name=Ice-skating | alt= | url= | email=
+| address=C.W. Obels Square | lat=57.049081 | long=9.919746 | directions=behind the Student House
+| phone= | tollfree= | fax=
+| hours=24/7, but only in the winter | price=Free if you own your own skates, otherwise renting them is 50 DKK
+| content=
+}}
+
+* {{do
+| name=Jumboland | alt= | url=http://www.jumboland.dk/ | email=info@jumboland.dk
+| address=Gøteborgvej 33 | lat=57.021855 | long=9.892666 | directions=
+| phone=+45 9818 8843 | tollfree= | fax=
+| hours=M-Tu during holiday 10AM-6PM, W-Th, Su 10AM-6PM, F 10AM-7PM, Sa 9AM-7PM | price=60 Kr, children 18 months-15 years 80 Kr
+| content=Indoor playground of 2,400 sqm. Does also have a café.
+}}
+
+* {{do
+| name=Open Swimming Pool | alt=Friluftsbad | url= | email=
+| address=Skydebanevej 14 | lat=57.056502 | long=9.886777 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| content=
+}}
+
+* {{do
+| name=Nordkraft | alt= | url=http://nordkraft.dk/forside.aspx | email=
+| address=Kjellerups Torv | lat= | long= | directions=At the habourfront next to Musikkens Hus and the Utzon Center
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Nordkraft is a culture center with everything from theatre, sports, concerts and arts to restaurants, education and small business facilities. It was established in 2009 in a former power plant.
+}}
+
+* {{do
+| name=Teater Nordkraft | alt= | url=http://www.teaternordkraft.dk/ | email=
+| address=Teglgårds Plads 1 | lat= | long= | directions=in Nordkraft
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-02-02
+| content=A theatre in Nordkraft culture center. [http://www.granhoj.dk/ Granhøj Dans] is a celebrated international dance company that is part of Teater Nordkraft. Granhøj Dans relocated to Aalborg in late 2016 from [[Aarhus]].
+}}
+* {{do
+| name=Musikkens Hus | alt= | url= | email=
+| address= | lat= | long= | directions=At the harbourfront next to Nordkraft and the Utzon Center
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-02-02
+| content=The concert halls and school of music. Fantastic architecture.
+}}
+
+==Buy==
+Cheapest supermarkets are Netto, Fakta, Aldi, Lidl and Rema 1000. Working hours are 9-20 on weekdays and 8-17 on Saturdays. Aldi is open 10-16 on Sundays.
+
+* {{buy
+| name=Algade and Bispensgade | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Main shopping streets. Most shops close at 6PM M-F and 2PM Sa, Su shops are closed unless it is a special Sunday (usually first of the month).
+}}
+
+* {{buy
+| name=Medinaen | url= | email=
+| address=Reberbansgade, Urbansgade, Holbergsgade and Jens Bangs Gade | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Shopping area with a number of unique small shops.
+}}
+
+* {{buy
+| name=Salling | url= | email=
+| address=Algade | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Department store.
+}}
+
+* {{buy
+| name=Wet Market | url= | email=
+| address=Aagade | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Sa, We mornings | price=
+| content=
+}}
+
+==Eat==
+There are several restaurants in {{Marker|type=eat|lat=57.0502788|long=9.9188283|name=Jomfru Ane Gade|alt=Jomfru Ane street|url=http://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155}}. In the city there are around 300 restaurants.
+
+* '''Fontænen''': has the cheapest hot dogs in town, low budget fast food, what you need after a night out.
+
+*  {{eat
+| name=1000fryd | alt= | url=http://www.1000fryd.dk | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=an alternative bar, vegan dinner on Tuesdays for 20dk. You have to sign up before.
+}}
+
+*  {{eat
+| name=KN Pizza &amp; Kebab 2 | alt= | url=http://www.kn2.dk | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=a small pizza place known for its quality food, but it is not cheap actually quiet the opposite.
+}}
+
+*  {{eat
+| name=San Giovanni | alt= | url=http://www.sangiovanni.dk/landingsside/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Good Italian restaurant
+}}
+
+* '''[http://www.cafefriends.dk/ Friends]''' : nice location toward the street junction &amp; have the option to stay out.I eat salmon salad with mixed fruit cocktail juice  for 90 dk, but make sure to have Krona since they are not accepting Euro.
+
+*'''Emiki Pizza''' : small pizza place &amp; friendly staff I took veggie pizza with Coke for 45dk.
+
+==Drink==
+[[Image:JomfruAne_dk.jpg|thumb|250px|Jomfru Ane street: The longest bar street in Scandinavia.]]
+* '''Jomfru Ane Gade''' is a short street with 30 restaurants/bars. Drinks are cheap and the bars are open late. You will see signs advertising 10 DKK drinks and 10pm-12pm happy hour.
+
+* {{drink
+| name=The Wharf | alt= | url= | email=
+| address= | lat=57.051507 | long=9.916342 | directions=
+| phone=+45 98117010 | tollfree= | fax=
+| hours= | price=
+| content=Borgergade 16, has the best beer in town (same owner as '''Charlies''' in [[Copenhagen]]).
+}}
+
+* {{drink
+| name=The Irish House | alt= | url=http://theirishhouse.dk/ | email=
+| address= | lat=57.049674 | long=9.921969 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Østerågade 25, tel: 98141817,
+}}
+
+* {{drink
+| name=London Pub | alt= | url= | email=
+| address=Boulevarden 7 | lat=57.046775 | long=9.920034 | directions=
+| phone=+45 98117770 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+* {{drink
+| name=Fedtebrødet | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-12-21
+| content=A real underground place in Aalborg. Very good music in this hippie bar where local bands play often and where you can always grab a guitar and jam with other costumers. The place is full of &quot;different&quot; people... let us say it's the complete opposite of the above-mentioned Jomfru Ane Gade.
+}}
+
+* {{drink
+| name=1000fryd | alt= | url=http://www.1000fryd.dk/ | email=
+| address=Kattesundet 10 | lat=57.050188 | long=9.917392 | directions=
+| phone=+45 98132221 | tollfree= | fax=
+| hours= | price=
+| content=Aalborg's only bar run by activists. 1000fryd has been around since 1984 when Aalborg's alternative scene bought the place. Now the place is known for their ecological beer, underground music scene and D.I.Y attitude towards life. 1000fryd has two reoccurring festivals, namely their Punk/HC festival and their Queer festival.
+}}
+
+* '''Student house''' [http://www.studenterhuset.dk] right across the Budolfi church hosts international evenings on Wednesdays, as well as various concerts on Fridays. Very informal.
+
+*{{drink
+| name=Behag din smag | alt= | url=http://www.behagdinsmag.dk | email=
+| address=Maren Turis Gade 5 | lat=57.049765 | long=9.920934 | directions=
+| phone=+45 8734 0486 | tollfree= | fax=
+| hours=M-F 9AM-6PM, Sa 9:30AM-4:30PM | price=
+| content=Coffee, tea and chocolate. If you enjoy good coffee, then this is the spot. One of the owners was the Danish Barista champion of 2007.
+}}
+
+*{{drink
+| name=Søgaards Bryghus | alt= | url=http://soegaardsbryghus.dk | email=
+| address=C. W. Obels Plads 1 | lat=57.048882 | long=9.920049 | directions=
+| phone=+45 98 16 11 14 | tollfree= | fax=
+| hours= | price=
+| content=Brew pub, very modern ambiance, with the mash tuns in full view. Offers many styles of beer, including stouts, porters, IPA as well as lagers.
+}}
+
+Aalborg is also the home of '''De Danske Spritfabrikker''' which produces a great number of distilled beverages. Their most famous product is the '''Aalborg Taffel Akvavit''', colloquially known as a &quot;Rød Aalborg&quot; (Red Aalborg).
+
+==Sleep==
+=== Budget ===
+* {{sleep
+| name=Danhostel Aalborg | alt= | url= | email=
+| address=Skydebanevej 50 | lat=57.053940 | long=9.872992 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2016-12-21
+| content=A hostel outside the centre of Aalborg which contains some huts on an island. It is cheap to sleep at this hostel and the ferry to Egholm is not far from it.
+}}
+
+* {{sleep
+| name=Eyvind Andreasen B&amp;B | alt= | url=http://www.bedandbreakfasteuropa.com/?host=19716 | email=rje@mail1.stofanet.dk
+| address=Kronprinsens alle 34 | lat=57.057595 | long=9.933008 | directions=
+| phone=+45 98172562 | tollfree= | fax=
+| checkin= | checkout= | price=DKK270, DKK325 (double)
+| content=Friendly place just north of the bridge. Has three rooms sharing bathroom, kitchen, separate entrance. TV, beer and wine available in the kitchen at very reasonable prices.
+}}
+
+=== Mid-range ===
+* {{sleep
+| name=Hotel Chagall | alt= | url=http://chagall.dk/?lang=en | email=info@chagall.dk
+| address=Vesterbro 36 | lat=57.046977 | long=9.914844 | directions=
+| phone=+45 9812 6933 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Small and homey hotel in the heart of Aalborg.
+}}
+
+* {{sleep
+| name=First Hotel Aalborg | alt=Slotshotellet | url=http://www.firsthotels.no/Vare-Hotell/Hotell-i-Danmark/Alborg/First-Slotshotel-Aalborg/?gclid=CIyVxoje0LwCFcHDcgodUHUAiA {{dead link|January 2017}} | email=
+| address=Rendsbruggade 5 | lat=57.048467 | long=9.927912 | directions=
+| phone=+45 98 10 14 00 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=View of Limfjorden, close to Aalborg’s pedestrianised boutique shopping, and 3 minutes walk from the new outdoor harbour pool.
+}}
+
+=== Splurge ===
+* {{sleep
+| name=Scheelsminde Hotel &amp; Gastronomi | alt= | url=http://www.scheelsminde.dk/ | email=scheelsminde@scheelsminde.dk
+| address=Scheelsmindevej 35 | lat=57.019758 | long=9.904922 | directions=
+| phone=+45 98 18 32 33 | tollfree= | fax=+45 98 18 33 34
+| checkin= | checkout= | price=
+| content=A nice 4 star hotel-restaurant catering to business people.
+}}
+
+* {{sleep
+| name=Radisson Blu Limfjord Hotel | alt= | url=http://www.sas.radisson.com/ | email=reservations.limfjord@radissonsas.com
+| address=Ved Stranden 14-16 | lat=57.050883 | long=9.920001 | directions=
+| phone=+45 98 16 43 33 | tollfree= | fax=+45 98 16 17 47
+| checkin= | checkout= | price=1200 - 2000 DKK per night
+| content=Big 4-star hotel with a view towards the Limfjord.
+}}
+
+==Connect==
+
+'''Internet''':
+
+* '''Det nordjyske Landsbibliotek''' (library) [http://www.njl.dk/information/wifi/wifi.htm] {{dead link|January 2017}},  Rendsburggade 2, section ''Nørregadehjørnet'' in &quot;Team Natur&quot;.
+
+==Cope==
+
+
+==Go next==
+
+There are lots of beautiful nature around, easily accessible only by car.
+
+* Rubjerg Knude - impressing sand dunes and a half-sunken lighthouse in the sand
+
+* Bulbjerg
+
+* Fur island
+
+* Mors
+
+* [[Skagen]]
+
+For beach, you can take a bus to [[Blokhus]] (around 40km) or Hals (around 30km) and walk some 3km north, or take a less frequent bus that passes Hou, to, e.g., Bisnap strand.
+
+* Fårup Sommerland. This amusement park can be reached by bus from Aalborg Rutebilstation. The amusement park has many rides and a water park.
+
+{{routebox-2
+| image1=Tabliczka E45.svg
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Frederikshavn]]
+| minorl1=Sæby
+| directionr1=S
+| majorr1=[[Aarhus]]
+| minorr1=[[Hobro]]
+| image2=Tabliczka E39.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Hirtshals]]
+| minorl2=[[Hjørring]]
+| directionr2=S
+| majorr2=END
+| minorr2=
+}}
+
+
+{{IsPartOf|North Jutland}}
+{{geo|57.05|9.93}}
+{{usablecity}}
+
+[[WikiPedia:Aalborg]]
+[[Commons:Aalborg]]</text>
+      <sha1>fiifu999w5hbc5o7al3a8vgiwgc7p7b</sha1>
+    </revision>
+  </page>
+</mediawiki>

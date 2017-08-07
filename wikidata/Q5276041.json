@@ -1,0 +1,406 @@
+{
+    "pageid": 5045419,
+    "ns": 0,
+    "title": "Q5276041",
+    "lastrevid": 495623617,
+    "modified": "2017-06-05T13:28:59Z",
+    "type": "item",
+    "id": "Q5276041",
+    "labels": {
+        "en": {
+            "language": "en",
+            "value": "digital badges"
+        },
+        "it": {
+            "language": "it",
+            "value": "badge digitale"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "cifereca insigno"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "дигитална значка"
+        },
+        "sr-ec": {
+            "language": "sr-ec",
+            "value": "дигитална значка"
+        },
+        "sr-el": {
+            "language": "sr-el",
+            "value": "digitalna značka"
+        },
+        "el": {
+            "language": "el",
+            "value": "Ψηφιακά σήματα"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "цифровые значки"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "badge virtuel"
+        },
+        "es": {
+            "language": "es",
+            "value": "distintivos digitales"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "distintivos dixitais"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "Distintius digitals"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "emblema digital"
+        },
+        "pt-br": {
+            "language": "pt-br",
+            "value": "emblema digital"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "数字徽章"
+        },
+        "zh-hk": {
+            "language": "zh-hk",
+            "value": "電子徽章"
+        },
+        "zh-cn": {
+            "language": "zh-cn",
+            "value": "数字徽章"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "数字徽章"
+        },
+        "zh-hant": {
+            "language": "zh-hant",
+            "value": "電子徽章"
+        },
+        "zh-tw": {
+            "language": "zh-tw",
+            "value": "電子徽章"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "distintivi virtuali"
+        },
+        "be-tarask": {
+            "language": "be-tarask",
+            "value": "лічбавыя адзнакі"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "電子徽章"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "odznaczenia cyfrowe"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "디지털 뱃지"
+        },
+        "mk": {
+            "language": "mk",
+            "value": "дигитална значка"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "цифрові відзнаки"
+        },
+        "de": {
+            "language": "de",
+            "value": "Kennzeichen"
+        },
+        "ms": {
+            "language": "ms",
+            "value": "lencana digital"
+        }
+    },
+    "descriptions": {
+        "scn": {
+            "language": "scn",
+            "value": "distintivi virtuali cunvalidati ca ìnnicunu valintizza, bravura, qualità, rinescitu o intiressi"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "website"
+        }
+    },
+    "aliases": {
+        "it": [
+            {
+                "language": "it",
+                "value": "badge digitali"
+            },
+            {
+                "language": "it",
+                "value": "distintivi digitali"
+            }
+        ],
+        "ja": [
+            {
+                "language": "ja",
+                "value": "デジタルバッジ"
+            },
+            {
+                "language": "ja",
+                "value": "電子バッジ"
+            },
+            {
+                "language": "ja",
+                "value": "電子記章"
+            },
+            {
+                "language": "ja",
+                "value": "ディジタルバッジ"
+            },
+            {
+                "language": "ja",
+                "value": "ディジタル・バッジ"
+            },
+            {
+                "language": "ja",
+                "value": "デジタル・バッジ"
+            }
+        ],
+        "mk": [
+            {
+                "language": "mk",
+                "value": "дигитални значки"
+            }
+        ],
+        "en": [
+            {
+                "language": "en",
+                "value": "Mozilla's Open Badges Project"
+            }
+        ],
+        "ms": [
+            {
+                "language": "ms",
+                "value": "Projek Lencana Terbuka Mozilla"
+            }
+        ]
+    },
+    "claims": {
+        "P279": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P279",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 381165,
+                            "id": "Q381165"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q5276041$0d149b73-4cac-5e38-133e-9479d80fac2d",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P279",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 11028,
+                            "id": "Q11028"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q5276041$80e37eb7-4cc5-623c-465f-019d7240ee99",
+                "rank": "normal"
+            },
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P279",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 799000,
+                            "id": "Q799000"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q5276041$ebb5b04e-4b14-c6ae-bb5b-71e07a1d6fbd",
+                "rank": "normal"
+            }
+        ],
+        "P373": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P373",
+                    "datavalue": {
+                        "value": "Digital badges",
+                        "type": "string"
+                    },
+                    "datatype": "string"
+                },
+                "type": "statement",
+                "id": "Q5276041$dec347e0-476f-b801-2243-149094da4d26",
+                "rank": "normal"
+            }
+        ],
+        "P3417": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P3417",
+                    "datavalue": {
+                        "value": "Digital-Badges",
+                        "type": "string"
+                    },
+                    "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "Q5276041$A5956CC5-5FD2-4890-9CCF-D7179B3F4DF4",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "d0b5b6346d38f7e212f576fec2c6692ef2b86e6a",
+                        "snaks": {
+                            "P143": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P143",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 51711,
+                                            "id": "Q51711"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P143"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P31": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P31",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 35127,
+                            "id": "Q35127"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q5276041$39D2F4D6-2192-4FFE-8C34-70D55CBFF6AC",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                        "snaks": {
+                            "P143": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P143",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 328,
+                                            "id": "Q328"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P143"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "P856": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P856",
+                    "datavalue": {
+                        "value": "http://openbadges.org",
+                        "type": "string"
+                    },
+                    "datatype": "url"
+                },
+                "type": "statement",
+                "id": "Q5276041$CFF09380-07A7-447E-A106-653AC90F622C",
+                "rank": "normal",
+                "references": [
+                    {
+                        "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                        "snaks": {
+                            "P143": [
+                                {
+                                    "snaktype": "value",
+                                    "property": "P143",
+                                    "datavalue": {
+                                        "value": {
+                                            "entity-type": "item",
+                                            "numeric-id": 328,
+                                            "id": "Q328"
+                                        },
+                                        "type": "wikibase-entityid"
+                                    },
+                                    "datatype": "wikibase-item"
+                                }
+                            ]
+                        },
+                        "snaks-order": [
+                            "P143"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sitelinks": {
+        "enwiki": {
+            "site": "enwiki",
+            "title": "Digital badge",
+            "badges": []
+        },
+        "frwiki": {
+            "site": "frwiki",
+            "title": "Badge numérique",
+            "badges": []
+        }
+    }
+}

@@ -22,9 +22,12 @@
   "homepage": "https://github.com/teammax/tcms-data#readme",
   "dependencies": {
     "bson-ext": "^1.0.5",
-    "debug": "^2.6.3",
+    "debug": "^2.6.8",
+    "extend": "^3.0.1",
     "googlemaps": "^1.12.0",
-    "mongodb": "^2.2.25",
+    "mongodb": "^2.2.28",
+    "safe-buffer": "^5.1.0",
+    "sshpk": "^1.13.1",
     "tourcms": "^1.1.0",
     "xml2js": "^0.4.17"
   }

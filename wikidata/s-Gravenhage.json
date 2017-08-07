@@ -1,0 +1,555 @@
+{
+  "type": "page",
+  "text": {},
+  "categories": [
+    "The Hague",
+    "Cities in the Netherlands",
+    "Former national capitals",
+    "Municipalities of South Holland",
+    "Populated places in South Holland",
+    "Populated coastal places in the Netherlands",
+    "Populated places established in the 13th century",
+    "Provincial capitals of the Netherlands",
+    "Port cities and towns of the North Sea",
+    "1248 establishments in Europe"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Joust_on_the_Hofvijver%2C_by_Dutch_School_of_the_17th_century.jpg",
+      "file": "File:Joust on the Hofvijver, by Dutch School of the 17th century.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Joust_on_the_Hofvijver%2C_by_Dutch_School_of_the_17th_century.jpg/300px-Joust_on_the_Hofvijver%2C_by_Dutch_School_of_the_17th_century.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Beest_Street_in_The_Hague.jpg",
+      "file": "File:Beest Street in The Hague.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Beest_Street_in_The_Hague.jpg/300px-Beest_Street_in_The_Hague.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Den_Haag_-_Stadhuis_1900.jpg",
+      "file": "File:Den Haag - Stadhuis 1900.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Den_Haag_-_Stadhuis_1900.jpg/300px-Den_Haag_-_Stadhuis_1900.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DenHaag-plaats-OpenTopo.jpg",
+      "file": "File:DenHaag-plaats-OpenTopo.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DenHaag-plaats-OpenTopo.jpg/300px-DenHaag-plaats-OpenTopo.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Haagse_wijken.PNG",
+      "file": "File:Haagse wijken.PNG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Haagse_wijken.PNG/300px-Haagse_wijken.PNG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hofvijver29042007.jpg",
+      "file": "File:Hofvijver29042007.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hofvijver29042007.jpg/300px-Hofvijver29042007.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Hague_Hoftoren.jpg",
+      "file": "File:The Hague Hoftoren.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Hague_Hoftoren.jpg/300px-The_Hague_Hoftoren.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/International_Court_of_Justice.jpg",
+      "file": "File:International Court of Justice.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/International_Court_of_Justice.jpg/300px-International_Court_of_Justice.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/International_Criminal_Court_Headquarters%2C_Netherlands.jpg",
+      "file": "File:International Criminal Court Headquarters, Netherlands.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/International_Criminal_Court_Headquarters%2C_Netherlands.jpg/300px-International_Criminal_Court_Headquarters%2C_Netherlands.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/RandstadRail_Den_Haag_netkous.jpg",
+      "file": "File:RandstadRail Den Haag netkous.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RandstadRail_Den_Haag_netkous.jpg/300px-RandstadRail_Den_Haag_netkous.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2009-04-23_Den_Haag_Binnenhof.JPG",
+      "file": "File:2009-04-23 Den Haag Binnenhof.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2009-04-23_Den_Haag_Binnenhof.JPG/300px-2009-04-23_Den_Haag_Binnenhof.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Plein_1813.JPG",
+      "file": "File:Plein 1813.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Plein_1813.JPG/300px-Plein_1813.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Noordeinde_Palace.jpg",
+      "file": "File:Noordeinde Palace.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Noordeinde_Palace.jpg/300px-Noordeinde_Palace.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Den_Haag%2C_Grote_Kerk_foto2_2010-03-07_15.31.JPG",
+      "file": "File:Den Haag, Grote Kerk foto2 2010-03-07 15.31.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Den_Haag%2C_Grote_Kerk_foto2_2010-03-07_15.31.JPG/300px-Den_Haag%2C_Grote_Kerk_foto2_2010-03-07_15.31.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Lijn2_Citadis4036_25042012.jpg",
+      "file": "File:Lijn2 Citadis4036 25042012.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lijn2_Citadis4036_25042012.jpg/300px-Lijn2_Citadis4036_25042012.jpg"
+    }
+  ],
+  "infobox": {
+    "name": {
+      "text": "The Hague"
+    },
+    "native_name": {
+      "text": "{{native name|nl|Den Haag|icon=no}}"
+    },
+    "other_name": {
+      "text": "{{native name|nl|'s-Gravenhage|icon=no}}"
+    },
+    "settlement_type": {
+      "text": "City and municipality",
+      "links": [
+        {
+          "page": "Cities of the Netherlands",
+          "src": "City"
+        },
+        {
+          "page": "List of municipalities of the Netherlands",
+          "src": "municipality"
+        }
+      ]
+    },
+    "image_skyline": {
+      "text": "{{Photomontage|position=center"
+    },
+    "photo1a": {
+      "text": "Cityscape of The Hague, viewed from Het Plein (The Square).jpg"
+    },
+    "photo2a": {
+      "text": "International Court of Justice.jpg"
+    },
+    "photo2b": {
+      "text": "Noordeinde Palace.jpg"
+    },
+    "photo3a": {
+      "text": "Exterieur OVERZICHT INGANG - 's-Gravenhage - 20285549 - RCE.jpg"
+    },
+    "photo3b": {
+      "text": "Overzicht voorgevel - 's-Gravenhage - 20358401 - RCE.jpg"
+    },
+    "photo3c": {
+      "text": "2010-05-22-den-haag-by-RalfR-43.jpg"
+    },
+    "photo4a": {
+      "text": "Steigenberger Kurhaus Hotel.JPG"
+    },
+    "photo4b": {
+      "text": "2010-05-22-den-haag-by-RalfR-48.jpg"
+    },
+    "photo5a": {
+      "text": "Binnenhof Panorama in Den Haag.jpg"
+    },
+    "size": {
+      "text": 260
+    },
+    "spacing": {
+      "text": 2
+    },
+    "color": {
+      "text": "#FFFFFF"
+    },
+    "border": {
+      "text": 0
+    },
+    "foot_montage": {
+      "text": "{{nobreak|From top down, left to right: The Square in the city centre;}} {{nobreak|Peace Palace, seat of the World Court; Noordeinde Palace;}} {{nobreak|the Passage; Huis ten Bosch royal palace; the Ridderzaal;}} {{nobreak|Kurhaus of Scheveningen; the Mauritshuis art museum;}} {{nobreak|Binnenhof, seat of the States General of the Netherlands}}",
+      "links": [
+        {
+          "page": "Het Plein",
+          "src": "The Square"
+        },
+        {
+          "page": "The Hague Center",
+          "src": "city centre"
+        },
+        {
+          "page": "Peace Palace"
+        },
+        {
+          "page": "International Court of Justice",
+          "src": "World Court"
+        },
+        {
+          "page": "Noordeinde Palace"
+        },
+        {
+          "page": ":nl:Passage (Den Haag)",
+          "src": "Passage"
+        },
+        {
+          "page": "Huis ten Bosch"
+        },
+        {
+          "page": "Ridderzaal"
+        },
+        {
+          "page": "Kurhaus of Scheveningen"
+        },
+        {
+          "page": "Mauritshuis"
+        },
+        {
+          "page": "Binnenhof"
+        },
+        {
+          "page": "States General of the Netherlands"
+        }
+      ]
+    },
+    "image_flag": {
+      "text": "Flag of The Hague.svg"
+    },
+    "flag_size": {
+      "text": "100x67px"
+    },
+    "image_shield": {
+      "text": "Den Haag wapen.svg"
+    },
+    "shield_size": {
+      "text": "100x80px"
+    },
+    "nickname": {
+      "text": "Residentiestad (Residential City), Hofstad (Court city)",
+      "links": [
+        {
+          "page": "Noble court",
+          "src": "Court"
+        }
+      ]
+    },
+    "motto": {
+      "text": "Vrede en Recht (Peace and Justice)"
+    },
+    "image_map": {
+      "text": "Map - NL - Municipality code 0518 (2009).svg"
+    },
+    "map_alt": {
+      "text": "Highlighted position of The Hague in a municipal map of South Holland"
+    },
+    "map_caption": {
+      "text": "Location in South Holland"
+    },
+    "coordinates": {
+      "text": "{{coord|52|5|N|4|19|E|region:NL|display=inline,title}}"
+    },
+    "subdivision_type": {
+      "text": "Country",
+      "links": [
+        {
+          "page": "List of sovereign states",
+          "src": "Country"
+        }
+      ]
+    },
+    "subdivision_name": {
+      "text": "Netherlands",
+      "links": [
+        {
+          "page": "Netherlands"
+        }
+      ]
+    },
+    "subdivision_type1": {
+      "text": "Province",
+      "links": [
+        {
+          "page": "Provinces of the Netherlands",
+          "src": "Province"
+        }
+      ]
+    },
+    "subdivision_name1": {
+      "text": "South Holland",
+      "links": [
+        {
+          "page": "South Holland"
+        }
+      ]
+    },
+    "parts_style": {
+      "text": "coll"
+    },
+    "parts": {
+      "text": "8 Districts",
+      "links": [
+        {
+          "page": "Districts of The Hague",
+          "src": "Districts"
+        }
+      ]
+    },
+    "p1": {
+      "text": "Escamp",
+      "links": [
+        {
+          "page": "Escamp"
+        }
+      ]
+    },
+    "p2": {
+      "text": "Haagse Hout",
+      "links": [
+        {
+          "page": "Haagse Hout"
+        }
+      ]
+    },
+    "p3": {
+      "text": "Laak",
+      "links": [
+        {
+          "page": "Laak, The Hague",
+          "src": "Laak"
+        }
+      ]
+    },
+    "p4": {
+      "text": "Leidschenveen-Ypenburg",
+      "links": [
+        {
+          "page": "Leidschenveen-Ypenburg"
+        }
+      ]
+    },
+    "p5": {
+      "text": "Loosduinen",
+      "links": [
+        {
+          "page": "Loosduinen"
+        }
+      ]
+    },
+    "p6": {
+      "text": "Centrum",
+      "links": [
+        {
+          "page": "The Hague Center",
+          "src": "Centrum"
+        }
+      ]
+    },
+    "p7": {
+      "text": "Scheveningen",
+      "links": [
+        {
+          "page": "Scheveningen"
+        }
+      ]
+    },
+    "p8": {
+      "text": "Segbroek",
+      "links": [
+        {
+          "page": "Segbroek"
+        }
+      ]
+    },
+    "governing_body": {
+      "text": "Municipal council",
+      "links": [
+        {
+          "page": "Municipal council (Netherlands)",
+          "src": "Municipal council"
+        }
+      ]
+    },
+    "leader_party": {
+      "text": "VVD",
+      "links": [
+        {
+          "page": "People's Party for Freedom and Democracy",
+          "src": "VVD"
+        }
+      ]
+    },
+    "leader_title": {
+      "text": "Mayor",
+      "links": [
+        {
+          "page": "List of mayors of The Hague",
+          "src": "Mayor"
+        }
+      ]
+    },
+    "leader_name": {
+      "text": "Pauline Krikke",
+      "links": [
+        {
+          "page": "Pauline Krikke"
+        }
+      ]
+    },
+    "leader_title1": {
+      "text": "Aldermen",
+      "links": [
+        {
+          "page": "Aldermen"
+        }
+      ]
+    },
+    "total_type": {
+      "text": "Municipality"
+    },
+    "unit_pref": {
+      "text": "Metric"
+    },
+    "author1": {
+      "text": "Anita Bouman–Eijs |author2=Thijmen van Bree |author3=Wouter Jonkhoff |author4=Olaf Koops |author5=Walter Manshanden |author6=Elmer Rietveld"
+    },
+    "url": {
+      "text": "http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf"
+    },
+    "title": {
+      "text": "De Top 20 van Europese grootstedelijke regio's 1995–2011; Randstad Holland in internationaal perspectief"
+    },
+    "language": {
+      "text": "Dutch"
+    },
+    "trans_title": {
+      "text": "Top 20 of European metropolitan regions 1995–2011; Randstad Holland compared internationally"
+    },
+    "date": {
+      "text": "17 December 2012"
+    },
+    "publisher": {
+      "text": "TNO",
+      "links": [
+        {
+          "page": "Netherlands Organisation for Applied Scientific Research",
+          "src": "TNO"
+        }
+      ]
+    },
+    "place": {
+      "text": "Delft"
+    },
+    "accessdate": {
+      "text": "25 July 2013"
+    },
+    "area_total_km2": {
+      "text": "{{Dutch municipality total area|The Hague}}"
+    },
+    "area_land_km2": {
+      "text": "{{Dutch municipality land area|The Hague}}"
+    },
+    "area_water_km2": {
+      "text": "{{Dutch municipality water area|The Hague}}"
+    },
+    "area_blank1_title": {
+      "text": "Randstad",
+      "links": [
+        {
+          "page": "Randstad"
+        }
+      ]
+    },
+    "area_blank1_km2": {
+      "text": 3043
+    },
+    "elevation_m": {
+      "text": 1
+    },
+    "elevation_max_footnotes": {
+      "text": "<!-- for references: use"
+    },
+    "population_total": {
+      "text": "{{Dutch municipality population|The Hague}}"
+    },
+    "population_as_of": {
+      "text": "Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}; Randstad, 2011"
+    },
+    "population_density_km2": {
+      "text": "{{Dutch municipality population density|The Hague}}"
+    },
+    "population_urban": {
+      "text": "{{Dutch municipality population urbanmetro|'s-Gravenhage Urban}}"
+    },
+    "population_metro": {
+      "text": "{{Dutch municipality population urbanmetro|'s-Gravenhage Metro}}"
+    },
+    "population_blank1_title": {
+      "text": "{{nobreak|Metropolitan region}}",
+      "links": [
+        {
+          "page": "Rotterdam The Hague Metropolitan Area",
+          "src": "Metropolitan region"
+        }
+      ]
+    },
+    "population_blank1": {
+      "text": 2261844
+    },
+    "population_blank2_title": {
+      "text": "Randstad",
+      "links": [
+        {
+          "page": "Randstad"
+        }
+      ]
+    },
+    "population_blank2": {
+      "text": 6979500
+    },
+    "population_demonym": {
+      "text": "Hagenaar or Hagenees"
+    },
+    "timezone1": {
+      "text": "CET",
+      "links": [
+        {
+          "page": "Central European Time",
+          "src": "CET"
+        }
+      ]
+    },
+    "utc_offset1": {
+      "text": "+1"
+    },
+    "timezone1_DST": {
+      "text": "CEST",
+      "links": [
+        {
+          "page": "Central European Summer Time",
+          "src": "CEST"
+        }
+      ]
+    },
+    "utc_offset1_DST": {
+      "text": "+2"
+    },
+    "postal_code_type": {
+      "text": "Postcode",
+      "links": [
+        {
+          "page": "Postal codes in the Netherlands",
+          "src": "Postcode"
+        }
+      ]
+    },
+    "postal_code": {
+      "text": "2490–2599"
+    },
+    "area_code_type": {
+      "text": "Area code",
+      "links": [
+        {
+          "page": "Telephone numbers in the Netherlands",
+          "src": "Area code"
+        }
+      ]
+    },
+    "area_code": {
+      "text": "070, 015"
+    },
+    "website": {
+      "text": "1=http://www.denhaag.nl"
+    }
+  },
+  "infobox_template": "settlement",
+  "tables": [],
+  "translations": {}
+}

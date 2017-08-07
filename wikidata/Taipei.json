@@ -1,0 +1,810 @@
+{
+  "type": "page",
+  "text": {},
+  "categories": [
+    "Taipei",
+    "Capitals in Asia",
+    "Populated places established in 1884",
+    "Municipalities of Taiwan",
+    "1884 establishments in Taiwan"
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Chiang_Kai-shek_memorial_amk.jpg",
+      "file": "File:Chiang Kai-shek memorial amk.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/300px-Chiang_Kai-shek_memorial_amk.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E5%A4%A7%E5%B3%B6%E4%B9%85%E6%BB%BF%E6%AC%A1.jpg",
+      "file": "File:大島久滿次.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%E5%A4%A7%E5%B3%B6%E4%B9%85%E6%BB%BF%E6%AC%A1.jpg/300px-%E5%A4%A7%E5%B3%B6%E4%B9%85%E6%BB%BF%E6%AC%A1.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E8%89%BE%E6%A3%AE%E8%B1%AA%E6%96%BC1960%E5%B9%B46%E6%9C%88%E8%A8%AA%E5%95%8F%E8%87%BA%E7%81%A3%E5%8F%B0%E5%8C%97%E6%99%82%E8%88%87%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1-2.jpg",
+      "file": "File:美國總統艾森豪於1960年6月訪問臺灣台北時與蔣中正總統-2.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E8%89%BE%E6%A3%AE%E8%B1%AA%E6%96%BC1960%E5%B9%B46%E6%9C%88%E8%A8%AA%E5%95%8F%E8%87%BA%E7%81%A3%E5%8F%B0%E5%8C%97%E6%99%82%E8%88%87%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1-2.jpg/300px-%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E8%89%BE%E6%A3%AE%E8%B1%AA%E6%96%BC1960%E5%B9%B46%E6%9C%88%E8%A8%AA%E5%95%8F%E8%87%BA%E7%81%A3%E5%8F%B0%E5%8C%97%E6%99%82%E8%88%87%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1-2.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/TaipeiViewFromMaokong.jpg",
+      "file": "File:TaipeiViewFromMaokong.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TaipeiViewFromMaokong.jpg/300px-TaipeiViewFromMaokong.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Shilin_night_market_alley.jpg",
+      "file": "File:Shilin night market alley.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shilin_night_market_alley.jpg/300px-Shilin_night_market_alley.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bellavita_and_CPCCT_head_office_20100907.jpg",
+      "file": "File:Bellavita and CPCCT head office 20100907.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bellavita_and_CPCCT_head_office_20100907.jpg/300px-Bellavita_and_CPCCT_head_office_20100907.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Neihu_during_2015_winter_solstice.jpg",
+      "file": "File:Neihu during 2015 winter solstice.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neihu_during_2015_winter_solstice.jpg/300px-Neihu_during_2015_winter_solstice.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/National_Palace_Museum_Taipei1.jpg",
+      "file": "File:National Palace Museum Taipei1.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/National_Palace_Museum_Taipei1.jpg/300px-National_Palace_Museum_Taipei1.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/National_Taiwan_Museum.JPG",
+      "file": "File:National Taiwan Museum.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/National_Taiwan_Museum.JPG/300px-National_Taiwan_Museum.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Shung_Ye_Museum_of_Formosan_Aborigines_in_Taipei.jpg",
+      "file": "File:Shung Ye Museum of Formosan Aborigines in Taipei.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shung_Ye_Museum_of_Formosan_Aborigines_in_Taipei.jpg/300px-Shung_Ye_Museum_of_Formosan_Aborigines_in_Taipei.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG",
+      "file": "File:台北當代藝術館.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG/300px-%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Taipei_101_at_night.jpg",
+      "file": "File:Taipei 101 at night.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_101_at_night.jpg/300px-Taipei_101_at_night.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/National_Concert_Hall%2C_Taipei.jpg",
+      "file": "File:National Concert Hall, Taipei.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Concert_Hall%2C_Taipei.jpg/300px-National_Concert_Hall%2C_Taipei.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ximending_at_night.jpg",
+      "file": "File:Ximending at night.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ximending_at_night.jpg/300px-Ximending_at_night.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Taipei_Rushhour_birdseye.JPG",
+      "file": "File:Taipei Rushhour birdseye.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Taipei_Rushhour_birdseye.JPG/300px-Taipei_Rushhour_birdseye.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Eslite_Bookstore_Xinyi_Store_20091010.jpg",
+      "file": "File:Eslite Bookstore Xinyi Store 20091010.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eslite_Bookstore_Xinyi_Store_20091010.jpg/300px-Eslite_Bookstore_Xinyi_Store_20091010.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Longshan_Temple_-_Right_entrance.jpg",
+      "file": "File:Longshan Temple - Right entrance.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Longshan_Temple_-_Right_entrance.jpg/300px-Longshan_Temple_-_Right_entrance.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Street_corner_shrine%2C_Taipei_2013.jpg",
+      "file": "File:Street corner shrine, Taipei 2013.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Street_corner_shrine%2C_Taipei_2013.jpg/300px-Street_corner_shrine%2C_Taipei_2013.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Taipei_101_2008_NewYear_Firework.jpg",
+      "file": "File:Taipei 101 2008 NewYear Firework.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Taipei_101_2008_NewYear_Firework.jpg/300px-Taipei_101_2008_NewYear_Firework.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Taipei_City_Hall_(0097).JPG",
+      "file": "File:Taipei City Hall (0097).JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Taipei_City_Hall_(0097).JPG/300px-Taipei_City_Hall_(0097).JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E6%9C%83.JPG",
+      "file": "File:台北市議會.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E6%9C%83.JPG/300px-%E5%8F%B0%E5%8C%97%E5%B8%82%E8%AD%B0%E6%9C%83.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/NTU_Medical_Professor_Ko_Wen-je_Talks_in_a_Workshop_in_Taipei%2C_TAIWAN_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%99%84%E8%A8%AD%E9%86%AB%E9%99%A2%E6%95%99%E6%8E%88%E6%9F%AF%E6%96%87%E5%93%B2%E6%BC%94%E8%AC%9B.jpg",
+      "file": "File:NTU Medical Professor Ko Wen-je Talks in a Workshop in Taipei, TAIWAN 國立臺灣大學附設醫院教授柯文哲演講.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NTU_Medical_Professor_Ko_Wen-je_Talks_in_a_Workshop_in_Taipei%2C_TAIWAN_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%99%84%E8%A8%AD%E9%86%AB%E9%99%A2%E6%95%99%E6%8E%88%E6%9F%AF%E6%96%87%E5%93%B2%E6%BC%94%E8%AC%9B.jpg/300px-NTU_Medical_Professor_Ko_Wen-je_Talks_in_a_Workshop_in_Taipei%2C_TAIWAN_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%99%84%E8%A8%AD%E9%86%AB%E9%99%A2%E6%95%99%E6%8E%88%E6%9F%AF%E6%96%87%E5%93%B2%E6%BC%94%E8%AC%9B.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Wende_Station_platform.jpg",
+      "file": "File:Wende Station platform.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wende_Station_platform.jpg/300px-Wende_Station_platform.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Taipei_Railway_Station_Front.jpg",
+      "file": "File:Taipei Railway Station Front.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Taipei_Railway_Station_Front.jpg/300px-Taipei_Railway_Station_Front.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Taipei_Songshan_Airport_1st_Terminal_Building_20090926.JPG",
+      "file": "File:Taipei Songshan Airport 1st Terminal Building 20090926.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Taipei_Songshan_Airport_1st_Terminal_Building_20090926.JPG/300px-Taipei_Songshan_Airport_1st_Terminal_Building_20090926.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/NTU_Hospital.JPG",
+      "file": "File:NTU Hospital.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NTU_Hospital.JPG/300px-NTU_Hospital.JPG"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Taipei_Mini-Big_Egg_02.jpg",
+      "file": "File:Taipei Mini-Big Egg 02.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Mini-Big_Egg_02.jpg/300px-Taipei_Mini-Big_Egg_02.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tianmubaseballstadium01.jpg",
+      "file": "File:Tianmubaseballstadium01.jpg",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tianmubaseballstadium01.jpg/300px-Tianmubaseballstadium01.jpg"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Taiwan_TVBS_Nangang_Building.JPG",
+      "file": "File:Taiwan TVBS Nangang Building.JPG",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Taiwan_TVBS_Nangang_Building.JPG/300px-Taiwan_TVBS_Nangang_Building.JPG"
+    }
+  ],
+  "infobox": {
+    "name": {
+      "text": "{{raise|0.2em|Taipei}}"
+    },
+    "official_name": {
+      "text": "Taipei City"
+    },
+    "native_name": {
+      "text": "{{lower|0.1em|{{nobold|{{lang|zh-hant|臺北市}}}}}}"
+    },
+    "settlement_type": {
+      "text": "Special municipality",
+      "links": [
+        {
+          "page": "Special municipality of Taiwan",
+          "src": "Special municipality"
+        }
+      ]
+    },
+    "image_skyline": {
+      "text": "Taipei City montage.PNG"
+    },
+    "imagesize": {
+      "text": "280px"
+    },
+    "image_caption": {
+      "text": "Clockwise from top: Taipei skyline, Grand Hotel, Far Eastern Plaza, National Palace Museum, Chiang Kai-shek Memorial Hall, Jiantan Station",
+      "links": [
+        {
+          "page": "Grand Hotel (Taipei)",
+          "src": "Grand Hotel"
+        },
+        {
+          "page": "National Palace Museum"
+        },
+        {
+          "page": "Chiang Kai-shek Memorial Hall"
+        },
+        {
+          "page": "Jiantan Station"
+        }
+      ]
+    },
+    "image_flag": {
+      "text": "Flag of Taipei City.svg"
+    },
+    "image_blank_emblem": {
+      "text": "Emblem of Taipei City.svg"
+    },
+    "etymology": {
+      "text": "{{zh|táiběi}} (Taiwan north)"
+    },
+    "nickname": {
+      "text": "The City of Azaleas",
+      "links": [
+        {
+          "page": "Azaleas"
+        }
+      ]
+    },
+    "image_map": {
+      "text": "Taiwan ROC political division map Taipei City (2010).svg"
+    },
+    "mapsize": {
+      "text": "200px"
+    },
+    "map_caption": {
+      "text": "Taipei's location within the Taiwan islands"
+    },
+    "image_map1": {
+      "text": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwissqLo-7zPAhWLKiYKHUepASUQjRwIBw&url=http%3A%2F%2Fwww.lonelyplanet.com%2Ftaiwan%2Ftaipei%2Fthings-to-do%2Ftaipei-after-dark&psig=AFQjCNH69qeQpUCx8RqWJ-XMLERX8rFuUA&ust=1475526790658209"
+    },
+    "mapsize1": {
+      "text": "200px"
+    },
+    "map_caption1": {
+      "text": "Satellite image of Taipei City"
+    },
+    "coordinates": {
+      "text": "{{coord|25|02|N|121|38|E|region:TW|display=inline,title}}"
+    },
+    "subdivision_type": {
+      "text": "Country",
+      "links": [
+        {
+          "page": "Country"
+        }
+      ]
+    },
+    "subdivision_name": {
+      "text": "Taiwan",
+      "links": [
+        {
+          "page": "Taiwan"
+        }
+      ]
+    },
+    "subdivision_type1": {
+      "text": "Region"
+    },
+    "subdivision_name1": {
+      "text": "Northern Taiwan",
+      "links": [
+        {
+          "page": "Northern Taiwan"
+        }
+      ]
+    },
+    "established_title": {
+      "text": "Settled"
+    },
+    "established_date": {
+      "text": 1709
+    },
+    "seat": {
+      "text": "Xinyi District",
+      "links": [
+        {
+          "page": "Xinyi District"
+        }
+      ]
+    },
+    "parts_type": {
+      "text": "Districts",
+      "links": [
+        {
+          "page": "District (Taiwan)",
+          "src": "Districts"
+        }
+      ]
+    },
+    "parts": {
+      "text": "12 districts"
+    },
+    "p1": {
+      "text": "Beitou",
+      "links": [
+        {
+          "page": "Beitou"
+        }
+      ]
+    },
+    "p2": {
+      "text": "Da'an",
+      "links": [
+        {
+          "page": "Da'an District, Taipei",
+          "src": "Da'an"
+        }
+      ]
+    },
+    "p3": {
+      "text": "Datong",
+      "links": [
+        {
+          "page": "Datong District, Taipei",
+          "src": "Datong"
+        }
+      ]
+    },
+    "p4": {
+      "text": "Nangang",
+      "links": [
+        {
+          "page": "Nangang District, Taipei",
+          "src": "Nangang"
+        }
+      ]
+    },
+    "p5": {
+      "text": "Neihu",
+      "links": [
+        {
+          "page": "Neihu District",
+          "src": "Neihu"
+        }
+      ]
+    },
+    "p6": {
+      "text": "Shilin",
+      "links": [
+        {
+          "page": "Shilin District",
+          "src": "Shilin"
+        }
+      ]
+    },
+    "p7": {
+      "text": "Songshan",
+      "links": [
+        {
+          "page": "Songshan District, Taipei",
+          "src": "Songshan"
+        }
+      ]
+    },
+    "p8": {
+      "text": "Wanhua",
+      "links": [
+        {
+          "page": "Wanhua District",
+          "src": "Wanhua"
+        }
+      ]
+    },
+    "p9": {
+      "text": "Wenshan",
+      "links": [
+        {
+          "page": "Wenshan District",
+          "src": "Wenshan"
+        }
+      ]
+    },
+    "p10": {
+      "text": "Xinyi",
+      "links": [
+        {
+          "page": "Xinyi District",
+          "src": "Xinyi"
+        }
+      ]
+    },
+    "p11": {
+      "text": "Zhongshan",
+      "links": [
+        {
+          "page": "Zhongshan District, Taipei",
+          "src": "Zhongshan"
+        }
+      ]
+    },
+    "p12": {
+      "text": "Zhongzheng",
+      "links": [
+        {
+          "page": "Zhongzheng District",
+          "src": "Zhongzheng"
+        }
+      ]
+    },
+    "government_type": {
+      "text": "Capital",
+      "links": [
+        {
+          "page": "Taipei City Government",
+          "src": "Capital"
+        }
+      ]
+    },
+    "leader_party": {
+      "text": "Independent"
+    },
+    "leader_title": {
+      "text": "Mayor",
+      "links": [
+        {
+          "page": "Mayor of Taipei",
+          "src": "Mayor"
+        }
+      ]
+    },
+    "leader_name": {
+      "text": "Ko Wen-je",
+      "links": [
+        {
+          "page": "Ko Wen-je"
+        }
+      ]
+    },
+    "leader_title1": {
+      "text": "Council",
+      "links": [
+        {
+          "page": "City council",
+          "src": "Council"
+        }
+      ]
+    },
+    "leader_name1": {
+      "text": "Taipei City Council",
+      "links": [
+        {
+          "page": "Taipei City Council"
+        }
+      ]
+    },
+    "total_type": {
+      "text": "Capital",
+      "links": [
+        {
+          "page": "Special municipality of Taiwan",
+          "src": "Capital"
+        }
+      ]
+    },
+    "area_magnitude": {
+      "text": "1 E8"
+    },
+    "area_total_km2": {
+      "text": "271.80"
+    },
+    "area_water_km2": {
+      "text": "2.7"
+    },
+    "area_water_percent": {
+      "text": "1.0"
+    },
+    "area_urban_km2": {
+      "text": 1140
+    },
+    "area_rank": {
+      "text": "16 out of 22",
+      "links": [
+        {
+          "page": "List of administrative divisions of Taiwan",
+          "src": "16 out of 22"
+        }
+      ]
+    },
+    "population_total": {
+      "text": 2704974
+    },
+    "population_as_of": {
+      "text": 2016
+    },
+    "population_density_km2": {
+      "text": "auto"
+    },
+    "population_urban": {
+      "text": 8500000
+    },
+    "population_density_urban_km2": {
+      "text": "auto"
+    },
+    "population_rank": {
+      "text": "4 out of 22",
+      "links": [
+        {
+          "page": "List of administrative divisions of Taiwan",
+          "src": "4 out of 22"
+        }
+      ]
+    },
+    "timezone": {
+      "text": "National Standard Time",
+      "links": [
+        {
+          "page": "National Standard Time"
+        }
+      ]
+    },
+    "utc_offset": {
+      "text": "+8"
+    },
+    "postal_code_type": {
+      "text": "Postal code"
+    },
+    "postal_code": {
+      "text": "100–116"
+    },
+    "area_code": {
+      "text": "(0)2"
+    },
+    "iso_code": {
+      "text": "TW-TPE"
+    },
+    "blank_name_sec1": {
+      "text": "Bird"
+    },
+    "blank_info_sec1": {
+      "text": "Formosan blue magpie (Urocissa caerulea)",
+      "links": [
+        {
+          "page": "Formosan blue magpie"
+        }
+      ]
+    },
+    "blank1_name_sec1": {
+      "text": "Flower"
+    },
+    "blank1_info_sec1": {
+      "text": "Azalea (Rhododendron nudiflorum)",
+      "links": [
+        {
+          "page": "Azalea"
+        }
+      ]
+    },
+    "blank2_name_sec1": {
+      "text": "Tree"
+    },
+    "blank2_info_sec1": {
+      "text": "Banyan (India laurel fig, Ficus microcarpa)",
+      "links": [
+        {
+          "page": "Banyan"
+        }
+      ]
+    },
+    "website": {
+      "text": "english.gov.taipei {{En icon}}"
+    }
+  },
+  "infobox_template": "settlement",
+  "tables": [
+    [
+      [
+        ""
+      ],
+      [
+        "0-4",
+        "73680",
+        "69574"
+      ],
+      [
+        "5-9",
+        "57701",
+        "53004"
+      ],
+      [
+        "10-14",
+        "67345",
+        "61491"
+      ],
+      [
+        "15-19",
+        "77974",
+        "72110"
+      ],
+      [
+        "20-24",
+        "78552",
+        "73103"
+      ],
+      [
+        "25-29",
+        "78447",
+        "80882"
+      ],
+      [
+        "30-34",
+        "105245",
+        "118719"
+      ],
+      [
+        "35-39",
+        "107951",
+        "123852"
+      ],
+      [
+        "40-44",
+        "96222",
+        "111729"
+      ],
+      [
+        "45-49",
+        "96535",
+        "112049"
+      ],
+      [
+        "50-54",
+        "98411",
+        "112322"
+      ],
+      [
+        "55-59",
+        "96092",
+        "110635"
+      ],
+      [
+        "60-64",
+        "87691",
+        "100472"
+      ],
+      [
+        "65-69",
+        "55867",
+        "64949"
+      ],
+      [
+        "70-74",
+        "40087",
+        "50018"
+      ],
+      [
+        "75-79",
+        "28413",
+        "39123"
+      ],
+      [
+        "80-84",
+        "23314",
+        "26760"
+      ],
+      [
+        "85+",
+        "26109",
+        "25887"
+      ]
+    ],
+    [
+      [
+        "Map",
+        "colspan=5|District",
+        "rowspan=2|Population (Jan. 2016)",
+        "Area (km 2 )",
+        "rowspan=2|Postal code"
+      ],
+      [
+        "Chinese]]",
+        "[[Pinyin]]",
+        "[[Wade–Giles]]",
+        "[[Pe̍h-ōe-jī]]"
+      ],
+      [
+        "rowspan=12|<div style=\"position: relative\" class=\"center\">",
+        "[[Beitou]]",
+        "北投區",
+        "Běitóu",
+        "Pei-t'ou",
+        "Pak-tâu",
+        "align=right|257,922",
+        "align=right|56.8216",
+        "112"
+      ],
+      [
+        "[[Da'an District, Taipei|Da'an]]",
+        "大安區",
+        "Dà'ān",
+        "Ta-an",
+        "Tāi-an",
+        "align=right|312,909",
+        "align=right|11.3614",
+        "106"
+      ],
+      [
+        "[[Datong District, Taipei|Datong]]",
+        "大同區",
+        "Dàtóng",
+        "Ta-t'ung",
+        "Tāi-tông",
+        "align=right|131,029",
+        "align=right|5.6815",
+        "103"
+      ],
+      [
+        "[[Nangang District, Taipei|Nangang]]",
+        "南港區",
+        "Nángǎng",
+        "Nan-kang",
+        "Lâm-káng",
+        "align=right|122,296",
+        "align=right|21.8424",
+        "115"
+      ],
+      [
+        "[[Neihu District|Neihu]]",
+        "內湖區",
+        "Nèihú",
+        "Nei-hu",
+        "Lāi-ô͘",
+        "align=right|287,726",
+        "align=right|31.5787",
+        "114"
+      ],
+      [
+        "[[Shilin District|Shilin]]",
+        "士林區",
+        "Shìlín",
+        "Shih-lin",
+        "Sū-lîm",
+        "align=right|290,682",
+        "align=right|62.3682",
+        "111"
+      ],
+      [
+        "[[Songshan District, Taipei|Songshan]]",
+        "松山區",
+        "Sōngshān",
+        "Sung-shan",
+        "Siông-san",
+        "align=right|209,689",
+        "align=right|9.2878",
+        "105"
+      ],
+      [
+        "[[Wanhua District|Wanhua]]",
+        "萬華區",
+        "Wànhuá",
+        "Wan-hua",
+        "Báng-kah",
+        "align=right|194,314",
+        "align=right|8.8522",
+        "108"
+      ],
+      [
+        "[[Wenshan District|Wenshan]]",
+        "文山區",
+        "Wénshān",
+        "Wen-shan",
+        "Bûn-san",
+        "align=right|275,433",
+        "align=right|31.5090",
+        "116"
+      ],
+      [
+        "[[Xinyi District|Xinyi]]",
+        "信義區",
+        "Xìnyì",
+        "Hsin-yi",
+        "Sìn-gī",
+        "align=right|229,139",
+        "align=right|11.2077",
+        "110"
+      ],
+      [
+        "[[Zhongshan District, Taipei|Zhongshan]]",
+        "中山區",
+        "Zhōngshān",
+        "Chung-shan",
+        "Tiong-san",
+        "align=right|231,286",
+        "align=right|13.6821",
+        "104"
+      ],
+      [
+        "[[Zhongzheng District|Zhongzheng]]",
+        "中正區",
+        "Zhōngzhèng",
+        "Chung-cheng",
+        "Tiong-chèng",
+        "align=right|162,549",
+        "align=right|7.6071",
+        "100"
+      ]
+    ],
+    [
+      [
+        "style=\"vertical-align:top; width:65%;\"|",
+        "valign=\"top\" |"
+      ]
+    ],
+    [
+      [
+        "style=\"vertical-align:top; width:37%;\"|",
+        "style=\"vertical-align:top; width:33%;\"|",
+        "style=\"vertical-align:top; width:29%;\"|"
+      ]
+    ]
+  ],
+  "translations": {}
+}

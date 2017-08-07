@@ -1,0 +1,604 @@
+{
+    "pageid": 19033469,
+    "ns": 0,
+    "title": "Q17437798",
+    "lastrevid": 480760275,
+    "modified": "2017-05-02T16:25:50Z",
+    "type": "item",
+    "id": "Q17437798",
+    "labels": {
+        "en": {
+            "language": "en",
+            "value": "good article"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "goed artikel"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "Dobry artykuł"
+        },
+        "de": {
+            "language": "de",
+            "value": "lesenswerter Artikel"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "хорошая статья"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "bon article"
+        },
+        "bg": {
+            "language": "bg",
+            "value": "Добра статия"
+        },
+        "cy": {
+            "language": "cy",
+            "value": "erthygl dda"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "优良条目"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "hyvä artikkeli"
+        },
+        "hu": {
+            "language": "hu",
+            "value": "jó szócikk"
+        },
+        "it": {
+            "language": "it",
+            "value": "voce di qualità"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "artigo bom"
+        },
+        "be": {
+            "language": "be",
+            "value": "добры артыкул"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "leginda artikolo"
+        },
+        "sk": {
+            "language": "sk",
+            "value": "dobrý článok"
+        },
+        "zh-tw": {
+            "language": "zh-tw",
+            "value": "優良條目"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "优良条目"
+        },
+        "zh-cn": {
+            "language": "zh-cn",
+            "value": "优良条目"
+        },
+        "zh-hk": {
+            "language": "zh-hk",
+            "value": "優良條目"
+        },
+        "zh-hant": {
+            "language": "zh-hant",
+            "value": "優良條目"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "добар чланак"
+        },
+        "sr-ec": {
+            "language": "sr-ec",
+            "value": "добар чланак"
+        },
+        "sr-el": {
+            "language": "sr-el",
+            "value": "dobar članak"
+        },
+        "be-tarask": {
+            "language": "be-tarask",
+            "value": "добры артыкул"
+        },
+        "en-gb": {
+            "language": "en-gb",
+            "value": "good article"
+        },
+        "et": {
+            "language": "et",
+            "value": "hea artikkel"
+        },
+        "el": {
+            "language": "el",
+            "value": "καλό λήμμα"
+        },
+        "nb": {
+            "language": "nb",
+            "value": "anbefalt artikkel"
+        },
+        "he": {
+            "language": "he",
+            "value": "ערך טוב"
+        },
+        "or": {
+            "language": "or",
+            "value": "ଭଲ ଲେଖା"
+        },
+        "es": {
+            "language": "es",
+            "value": "artículo bueno"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "artigo bo"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "article bo"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "良質な記事"
+        },
+        "lv": {
+            "language": "lv",
+            "value": "labs raksts"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "좋은 글"
+        },
+        "cs": {
+            "language": "cs",
+            "value": "dobrý článek"
+        },
+        "vi": {
+            "language": "vi",
+            "value": "bài viết tốt"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "bra artikel"
+        },
+        "hsb": {
+            "language": "hsb",
+            "value": "čitanja hódny nastawk"
+        },
+        "dsb": {
+            "language": "dsb",
+            "value": "cytanja gódny nastawk"
+        },
+        "udm": {
+            "language": "udm",
+            "value": "умоесь статья"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "добра стаття"
+        },
+        "is": {
+            "language": "is",
+            "value": "Gæðagrein"
+        },
+        "da": {
+            "language": "da",
+            "value": "god artikel"
+        },
+        "ro": {
+            "language": "ro",
+            "value": "articol bun"
+        },
+        "fa": {
+            "language": "fa",
+            "value": "مقالهٔ خوب"
+        },
+        "ckb": {
+            "language": "ckb",
+            "value": "وتاری باش"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "vuci fatta bona"
+        },
+        "hi": {
+            "language": "hi",
+            "value": "अच्छा लेख"
+        },
+        "th": {
+            "language": "th",
+            "value": "บทความคุณภาพ"
+        },
+        "bs": {
+            "language": "bs",
+            "value": "dobar članak"
+        },
+        "hy": {
+            "language": "hy",
+            "value": "լավ հոդված"
+        },
+        "ilo": {
+            "language": "ilo",
+            "value": "nasayaat nga artikulo"
+        },
+        "bn": {
+            "language": "bn",
+            "value": "ভালো নিবন্ধ"
+        },
+        "gsw": {
+            "language": "gsw",
+            "value": "lääsige Artikel"
+        },
+        "ka": {
+            "language": "ka",
+            "value": "კარგი სტატია"
+        },
+        "mzn": {
+            "language": "mzn",
+            "value": "خار بنویشته"
+        },
+        "frr": {
+            "language": "frr",
+            "value": "Gud artiikel"
+        },
+        "mk": {
+            "language": "mk",
+            "value": "добра статија"
+        },
+        "ce": {
+            "language": "ce",
+            "value": "Дика яззам"
+        },
+        "hr": {
+            "language": "hr",
+            "value": "dobri članak"
+        },
+        "uz": {
+            "language": "uz",
+            "value": "yaxshi maqola"
+        },
+        "cdo": {
+            "language": "cdo",
+            "value": "Cék-liông ô-lī-kó̤ gì ùng-ciŏng"
+        },
+        "ba": {
+            "language": "ba",
+            "value": "яҡшы мәҡәлә"
+        },
+        "ar": {
+            "language": "ar",
+            "value": "مقالة جيدة"
+        },
+        "zh-sg": {
+            "language": "zh-sg",
+            "value": "优良条目"
+        },
+        "zh-mo": {
+            "language": "zh-mo",
+            "value": "優良條目"
+        },
+        "zh-my": {
+            "language": "zh-my",
+            "value": "优良条目"
+        },
+        "lt": {
+            "language": "lt",
+            "value": "geras straipsnis"
+        }
+    },
+    "descriptions": {
+        "en": {
+            "language": "en",
+            "value": "badge being used for good articles"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "badge die gebruikt wordt bij goede artikelen"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "odznaczenie używane dla dobrych artykułów"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "label utilisé pour les bons articles"
+        },
+        "de": {
+            "language": "de",
+            "value": "Auszeichnung für lesenswerte Artikel"
+        },
+        "cy": {
+            "language": "cy",
+            "value": "bathodyn yn cael ei ddefnyddio ar gyfer erthyglau da"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "emblema utilizado para artigos bons"
+        },
+        "it": {
+            "language": "it",
+            "value": "badge utilizzato per le voci di qualità"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "insigno uzata por legindaj artikoloj"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "значка која се користи за добре чланке"
+        },
+        "sr-ec": {
+            "language": "sr-ec",
+            "value": "значка која се користи за добре чланке"
+        },
+        "sr-el": {
+            "language": "sr-el",
+            "value": "značka koja se koristi za dobre članke"
+        },
+        "en-gb": {
+            "language": "en-gb",
+            "value": "badge being used for good articles"
+        },
+        "nb": {
+            "language": "nb",
+            "value": "merke som brukes for anbefalte artikler"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "merkki, joka osoittaa artikkelin olevan hyvä artikkeli Wikipediassa"
+        },
+        "es": {
+            "language": "es",
+            "value": "insignia empleada para señalar un artículo bueno"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "distintivo empregado para sinalar un artigo bo"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "distintiu per als articles bons"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "良質な記事のために使われているバッジ"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "좋은 글 문서에 사용되는 배지"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "märke som används för bra artiklar"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "отметка о хорошем качестве статьи в проекте Викимедиа"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "позначка для добрих статей"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "用于标记优良条目的徽章"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "distintivu ca ìnnica li vuci fatti boni, vali a diri chiddi chi rispèttunu li standard di Wikimedia in manera suddisfacenti"
+        },
+        "hi": {
+            "language": "hi",
+            "value": "यह बिल्ला अच्छे लेख के लिए काम में लिया जाता है।"
+        },
+        "bs": {
+            "language": "bs",
+            "value": "oznaka za dobre članke"
+        },
+        "hy": {
+            "language": "hy",
+            "value": "լավ հոդվածներին տրվող նշան"
+        },
+        "hr": {
+            "language": "hr",
+            "value": "oznaka dobrog članka"
+        },
+        "ar": {
+            "language": "ar",
+            "value": "وسام يستخدم لتعريف المقالات الجيدة"
+        },
+        "zh-hk": {
+            "language": "zh-hk",
+            "value": "用於標記優良條目的徽章"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "用于标记优良条目的徽章"
+        },
+        "zh-cn": {
+            "language": "zh-cn",
+            "value": "用于标记优良条目的徽章"
+        },
+        "zh-hant": {
+            "language": "zh-hant",
+            "value": "用於標記優良條目的徽章"
+        },
+        "zh-mo": {
+            "language": "zh-mo",
+            "value": "用於標記優良條目的徽章"
+        },
+        "zh-my": {
+            "language": "zh-my",
+            "value": "用于标记优良条目的徽章"
+        },
+        "zh-sg": {
+            "language": "zh-sg",
+            "value": "用于标记优良条目的徽章"
+        },
+        "zh-tw": {
+            "language": "zh-tw",
+            "value": "用於標記優良條目的徽章"
+        }
+    },
+    "aliases": {
+        "nl": [
+            {
+                "language": "nl",
+                "value": "GA"
+            }
+        ],
+        "en": [
+            {
+                "language": "en",
+                "value": "GA"
+            },
+            {
+                "language": "en",
+                "value": "guide article"
+            }
+        ],
+        "fr": [
+            {
+                "language": "fr",
+                "value": "BA"
+            }
+        ],
+        "it": [
+            {
+                "language": "it",
+                "value": "VdQ"
+            }
+        ],
+        "vi": [
+            {
+                "language": "vi",
+                "value": "BVT"
+            },
+            {
+                "language": "vi",
+                "value": "BVCLT"
+            }
+        ],
+        "ro": [
+            {
+                "language": "ro",
+                "value": "AB"
+            }
+        ],
+        "es": [
+            {
+                "language": "es",
+                "value": "AB"
+            }
+        ],
+        "pt": [
+            {
+                "language": "pt",
+                "value": "AB"
+            }
+        ],
+        "frr": [
+            {
+                "language": "frr",
+                "value": "GA"
+            }
+        ],
+        "pl": [
+            {
+                "language": "pl",
+                "value": "DA"
+            }
+        ],
+        "hr": [
+            {
+                "language": "hr",
+                "value": "DČ"
+            }
+        ],
+        "uz": [
+            {
+                "language": "uz",
+                "value": "YM"
+            }
+        ],
+        "cdo": [
+            {
+                "language": "cdo",
+                "value": "質量霧裡去其文章"
+            }
+        ],
+        "ar": [
+            {
+                "language": "ar",
+                "value": "أمج"
+            },
+            {
+                "language": "ar",
+                "value": "ممج"
+            },
+            {
+                "language": "ar",
+                "value": "مقال جيد"
+            },
+            {
+                "language": "ar",
+                "value": "مقالات جيدة"
+            }
+        ],
+        "zh": [
+            {
+                "language": "zh",
+                "value": "優良條目"
+            }
+        ]
+    },
+    "claims": {
+        "P31": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P31",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 17442550,
+                            "id": "Q17442550"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q17437798$430a0f9e-4a48-f89f-e4e8-09f87c559b06",
+                "rank": "normal"
+            }
+        ],
+        "P910": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P910",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 7045856,
+                            "id": "Q7045856"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q17437798$b6da4c9c-45b4-b050-da5e-ab38dff2c968",
+                "rank": "normal"
+            }
+        ]
+    },
+    "sitelinks": {}
+}

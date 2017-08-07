@@ -1,0 +1,342 @@
+{
+    "pageid": 19037893,
+    "ns": 0,
+    "title": "Q17442550",
+    "lastrevid": 492185526,
+    "modified": "2017-05-29T20:26:29Z",
+    "type": "item",
+    "id": "Q17442550",
+    "labels": {
+        "fr": {
+            "language": "fr",
+            "value": "badge d'un projet Wikimedia"
+        },
+        "en": {
+            "language": "en",
+            "value": "Wikimedia badge"
+        },
+        "nl": {
+            "language": "nl",
+            "value": "Wikimedia-badge"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "Wikimedia-merkki"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "emblema da Wikimedia"
+        },
+        "it": {
+            "language": "it",
+            "value": "badge di un progetto Wikimedia"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "Vikimedia insigno"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "Викимедијна значка"
+        },
+        "sr-ec": {
+            "language": "sr-ec",
+            "value": "Викимедијна значка"
+        },
+        "sr-el": {
+            "language": "sr-el",
+            "value": "Vikimedijna značka"
+        },
+        "el": {
+            "language": "el",
+            "value": "Σήμα Βικιπαίδειας"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "значок качества"
+        },
+        "es": {
+            "language": "es",
+            "value": "distintivo de Wikimedia"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "distintivo de Wikimedia"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "Distintiu de Wikimedia"
+        },
+        "pt-br": {
+            "language": "pt-br",
+            "value": "emblema da Wikimedia"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "维基媒体徽章"
+        },
+        "zh-cn": {
+            "language": "zh-cn",
+            "value": "维基媒体徽章"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "维基媒体徽章"
+        },
+        "zh-hant": {
+            "language": "zh-hant",
+            "value": "維基媒體徽章"
+        },
+        "zh-tw": {
+            "language": "zh-tw",
+            "value": "維基媒體徽章"
+        },
+        "zh-hk": {
+            "language": "zh-hk",
+            "value": "維基媒體徽章"
+        },
+        "de": {
+            "language": "de",
+            "value": "Wikimedia-Badge"
+        },
+        "cs": {
+            "language": "cs",
+            "value": "odznak Wikimedia"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "Wikimedia-märke"
+        },
+        "is": {
+            "language": "is",
+            "value": "Wikimedia merki"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "distintivu Wikimedia"
+        },
+        "be-tarask": {
+            "language": "be-tarask",
+            "value": "Адзнака Вікімэдыі"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "ウィキメディアのバッジ"
+        },
+        "pl": {
+            "language": "pl",
+            "value": "ikona jakości Wikimedia"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "위키미디어 뱃지"
+        },
+        "mk": {
+            "language": "mk",
+            "value": "Викимедиина значка"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "відзнака Вікімедіа"
+        },
+        "be": {
+            "language": "be",
+            "value": "значок якасці"
+        },
+        "zh-mo": {
+            "language": "zh-mo",
+            "value": "維基媒體徽章"
+        },
+        "zh-my": {
+            "language": "zh-my",
+            "value": "维基媒体徽章"
+        },
+        "zh-sg": {
+            "language": "zh-sg",
+            "value": "维基媒体徽章"
+        },
+        "ms": {
+            "language": "ms",
+            "value": "Lencana Wikimedia"
+        },
+        "he": {
+            "language": "he",
+            "value": "סמל של ויקמדיה"
+        }
+    },
+    "descriptions": {
+        "en": {
+            "language": "en",
+            "value": "digital badge used by a Wikimedia project"
+        },
+        "fi": {
+            "language": "fi",
+            "value": "digitaalinen merkki, jota käytetään Wikimedia-projekteissa"
+        },
+        "pt": {
+            "language": "pt",
+            "value": "emblema digital utilizado por um projeto da Wikimedia"
+        },
+        "eo": {
+            "language": "eo",
+            "value": "cifereca insigno uzata en Vikimediaj projektoj"
+        },
+        "sr": {
+            "language": "sr",
+            "value": "дигитална значка коју користе Викимедијни пројекти"
+        },
+        "sr-ec": {
+            "language": "sr-ec",
+            "value": "дигитална значка коју користе Викимедијни пројекти"
+        },
+        "sr-el": {
+            "language": "sr-el",
+            "value": "digitalna značka koju koriste Vikimedijni projekti"
+        },
+        "ru": {
+            "language": "ru",
+            "value": "отметка о качестве статьи в проекте Викимедиа"
+        },
+        "fr": {
+            "language": "fr",
+            "value": "badge virtuel utilisé sur les projets Wikimédia"
+        },
+        "es": {
+            "language": "es",
+            "value": "distintivo digital empleado por un proyecto de Wikimedia"
+        },
+        "gl": {
+            "language": "gl",
+            "value": "distintivo dixital empregado por un proxecto de Wikimedia"
+        },
+        "ca": {
+            "language": "ca",
+            "value": "Distintiu utilitzat en una pàgina de projecte de Wikimedia"
+        },
+        "pt-br": {
+            "language": "pt-br",
+            "value": "emblema digital utilizado por um projeto da Wikimedia"
+        },
+        "zh": {
+            "language": "zh",
+            "value": "维基媒体项目使用的数字徽章"
+        },
+        "zh-cn": {
+            "language": "zh-cn",
+            "value": "维基媒体项目使用的数字徽章"
+        },
+        "zh-hans": {
+            "language": "zh-hans",
+            "value": "用于维基媒体项目的数字徽章"
+        },
+        "zh-hant": {
+            "language": "zh-hant",
+            "value": "用於維基媒體項目的數碼徽章"
+        },
+        "zh-hk": {
+            "language": "zh-hk",
+            "value": "用於維基媒體項目的數碼徽章"
+        },
+        "zh-tw": {
+            "language": "zh-tw",
+            "value": "用於維基媒體項目的數碼徽章"
+        },
+        "de": {
+            "language": "de",
+            "value": "Kennzeichen, das von Wikimedia-Projekten verwendet wird (z.B. ein Stern für ausgezeichnete Artikel)"
+        },
+        "sv": {
+            "language": "sv",
+            "value": "digitalt märke som används av ett Wikimediaprojekt"
+        },
+        "scn": {
+            "language": "scn",
+            "value": "distintivu virtuali adupiratu di nu pruggettu Wikimedia"
+        },
+        "ja": {
+            "language": "ja",
+            "value": "ウィキメディア・プロジェクトで使用される電子徽章"
+        },
+        "it": {
+            "language": "it",
+            "value": "badge digitale utilizzato da un progetto Wikimedia"
+        },
+        "mk": {
+            "language": "mk",
+            "value": "дигитална значка што се користи на Викимедиин проект"
+        },
+        "uk": {
+            "language": "uk",
+            "value": "цифрова відзнака, що використовується в проекті Вікімедіа"
+        },
+        "ko": {
+            "language": "ko",
+            "value": "위키미디어 프로젝트에서 사용되는 디지털 뱃지"
+        },
+        "zh-mo": {
+            "language": "zh-mo",
+            "value": "用於維基媒體項目的數碼徽章"
+        },
+        "zh-my": {
+            "language": "zh-my",
+            "value": "用于维基媒体项目的数字徽章"
+        },
+        "zh-sg": {
+            "language": "zh-sg",
+            "value": "用于维基媒体项目的数字徽章"
+        },
+        "ms": {
+            "language": "ms",
+            "value": "lencana digital digunakan oleh projek Wikimedia"
+        },
+        "he": {
+            "language": "he",
+            "value": "סמל דיגיטלי שנעשה בו שימוש במיזם של ויקמדיה"
+        }
+    },
+    "aliases": {
+        "it": [
+            {
+                "language": "it",
+                "value": "badge"
+            },
+            {
+                "language": "it",
+                "value": "badge Wikimedia"
+            },
+            {
+                "language": "it",
+                "value": "distintivo Wikimedia"
+            }
+        ],
+        "ko": [
+            {
+                "language": "ko",
+                "value": "뱃지"
+            }
+        ]
+    },
+    "claims": {
+        "P279": [
+            {
+                "mainsnak": {
+                    "snaktype": "value",
+                    "property": "P279",
+                    "datavalue": {
+                        "value": {
+                            "entity-type": "item",
+                            "numeric-id": 5276041,
+                            "id": "Q5276041"
+                        },
+                        "type": "wikibase-entityid"
+                    },
+                    "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "Q17442550$9d89404c-4bb5-f465-b4dd-04a3ed6d2f8d",
+                "rank": "normal"
+            }
+        ]
+    },
+    "sitelinks": {}
+}
